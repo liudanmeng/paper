@@ -1,0 +1,34 @@
+% vim:ts=4:sw=4
+% Copyright (c) 2014 Casper Ti. Vector
+% Public domain.
+
+\begin{cabstract}
+	% 中文测试文字。
+
+		交通问题是当今世界关注的热点问题。随着人们生活水平的提高、交通系统的发展，社会交通需求也日益增大。交通与环境、交通与能源、交通与需求之间的矛盾日益加剧，交通事故和堵塞给人们带来了巨大的效率、能源和生命上的损失，简单的交通控制技术已经不能满足需求。传统智能交通研究以路网中的单个空间位置点为研究对象，运用动力学，统计学，仿真学与机器学习相关理论对其交通流行为进行分析。随着交通系统的不断发展，交通系统逐渐呈现网络化态势，路网中各个节点之间紧密联系，单个空间位置点的研究已经不足以描述整个高速公路路网的宏观特性。随着交通事故逐渐成为交通系统的瓶颈所在，智能交通系统的研究出现了新的需求：如何找到交通系统中的关键节点，通过对这些关键节点进行处理，以达到减少交通路网瘫痪率、增加路网运行稳定性的目的。
+
+		在网络化的智能高速公路系统中，关键节点的研究集中在1）对交通网络拓扑结构的研究；2）对交通网络信息进行统计研究；3）利用传播动力学，对微观站点进行相关研究。我们的目的是找到关键节点，在整体网络中提升运行效率，方法1）只针对了路网的拓扑结构，没有考虑节点之间的信息交流；方法2）基于传统统计学，并在统计学的基础上，利用数据挖掘方法研究关键节点，路网中的车流流量随时间变化而变化，该方法只能静态分析路网关键节点，无法分析关键节点随着时间／路网流量的变化规律；方法3）集中研究微观领域的交通特性，对整体路网的研究意义不大。在此我们提出一种基于宏观高速公路网络的目标模型，根据选取节点对模型的影响，选取关键节点。为了深入挖掘高速公路关键节点特性，我们提出了一个较复杂的概率求解模型。这个模型直接求解时间复杂度高，不符合智能交通系统的实时应用需求。基于复杂网络的小世界特性，在此引入高速公路网络的分群算法，进行分治处理
+
+		因此，本文从智能交通的实际应用需求出发，针对现有关键节点挖掘研究方法的不足，深入进行两个方面的研究：提出一种描述语高速公路的关键节点与高速公路的通行状况之间联系的函数模型,针对现有复杂网络关键节点研究的局限性，从宏观层面提出目标函数，结合高速公路的实时路况，研究实时高速公路中关键节点的位置;提出一种基于高速公路路网的社群划分方法。针对现有社群划分方法中的分辨率限制与极端退化特性，结合高速公路路网的特点，建立适用于高速公路的社群划分模型，在一定程度上解决传统方法中的分辨率限制与极端退化特性。
+
+        本文的贡献主要有以下几点：
+        
+		（1）提出一种高速公路路网关键节点挖掘模型，突破现有复杂网络的局限性
+		
+		（2）提出一种基于高速公路路网的社群划分模型，降低高速公路关键节点挖掘复杂度，使得方法可以实际应用。
+\end{cabstract}
+
+\begin{eabstract}
+	Traffic problem is a hot issue in the world today. With the improvement of people's living standard and the development of the traffic system, the demand of social traffic is increasing day by day. The contradiction between traffic and environment, transportation and energy, traffic and demand increasing, traffic accidents and congestion brings efficiency, energy and life in the great loss, simple traffic control technology has been unable to meet the demand. The study of the traditional intelligent transportation is based on the research of the single spatial location in the road network, which is based on the theory of dynamics, statistics, simulation and machine learning. With the continuous development of the traffic system, traffic system gradually presents the network situation, the close connection between each node in the network, the macro characteristics of single point position is not enough to describe the whole Expressway network. With the traffic accident has become the bottleneck of the traffic system, the research of intelligent transportation system has new demand: how to find the key nodes in the traffic system, by processing the key nodes, in order to reduce the traffic paralysis rate, increase the operation stability of road network to.
+	
+	In the intelligent highway system network, the research focused on 1 key nodes) study on traffic network topology; 2) for statistical research on traffic network information; 3) using the propagation dynamics, the research of micro site. Our purpose is to find the key nodes in the network, improve the efficiency in the whole network, method 1) only for the topology of the network, do not consider the exchange of information between nodes; 2) based on the traditional statistical methods, and on the basis of statistics, using data mining method of key nodes, and the change in the flow of network traffic change over time, this method can only static analysis of network key nodes, to analysis of key nodes changes with time and network flow method; 3) focus on the traffic characteristics of the micro field, the whole road network is of little significance. In this paper, we propose a target model based on macroscopic Expressway network. In order to deeply explore the key nodes of freeway, we propose a more complex probabilistic model. This model has high time complexity and can not meet the requirement of real-time application of intelligent transportation system. Based on the small world characteristics of complex networks, this paper introduces the clustering algorithm of expressway network, which is divided into four parts
+	
+	Therefore, this article from the intelligent transportation according to the practical requirement, aiming at the key nodes of mining lack of research methods, in-depth study of two aspects: the function model between the key nodes and highway traffic conditions put forward a description of expressway, aiming at the limitations of existing key nodes of the complex network, put forward the objective function from the macro level, combined with real-time traffic highway, on key nodes in the expressway real-time position; proposes a classification method of highway network based on community. The resolution limit and extreme for the existing community division method in the degradation characteristics, combined with the characteristics of the highway network, community partition model is established by the highway, to a certain extent to solve the resolution limitation of the traditional method and extreme degradation characteristics.
+	
+	The main contributions of this paper are as follows:
+	
+	（1）In this paper, a new model of key nodes in highway network is proposed, which breaks through the limitations of existing complex networks
+	
+% 	（2）In this paper, a new model of community partition based on expressway network is proposed, which can reduce the complexity of the key nodes and make the method practical.
+\end{eabstract}
+
