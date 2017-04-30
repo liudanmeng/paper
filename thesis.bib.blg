@@ -1,0 +1,5 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'thesis.bib.blg'
+[46] biber-darwin:290> INFO - === 六  4 29, 2017, 12:31:58
+[179] Utils.pm:165> ERROR - Cannot find control file 'thesis.bib.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[180] Biber.pm:112> INFO - ERRORS: 1

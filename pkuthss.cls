@@ -256,7 +256,7 @@
 			% Information about the author.
 			{%
 				% Slightly adjust the line skip when using new font size.
-				\zihao{3}\linespread{1.75}\selectfont
+				\zihao{4}\linespread{1.75}\selectfont
 				\def\pkuthss@tmp@len{0.56\textwidth}
 				\begin{tabular}{l@{\extracolsep{0.2em}}c}
 					{\bfseries\label@cauthor}		&

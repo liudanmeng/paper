@@ -1,0 +1,79 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{NewmanBasic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2e5bdd799625868968171ab04024aab0}{%
+           family={Newman},
+           family_i={N\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a7c16fcf03c4a8aacfb75fe018199fd}{%
+           family={Girvan},
+           family_i={G\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb19f26e8aa0efe27e0f10a5b4c9e904}
+      \strng{fullhash}{bb19f26e8aa0efe27e0f10a5b4c9e904}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{2 Pt 2}
+      \field{title}{Finding and evaluating community structure in networks.}
+      \field{userf}{en}
+      \field{volume}{69}
+      \field{year}{2004}
+      \field{pages}{026113}
+      \range{pages}{1}
+    \endentry
+    \entry{test}{article}{}
+      \name{author}{2}{}{%
+        {{hash=025b39963d95e0eec0fa1a4e0bdc7190}{%
+           family={Fortunato},
+           family_i={F\bibinitperiod}}}%
+        {{hash=5e216b1783049fe79a8fabe27dacd40e}{%
+           family={Santo},
+           family_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f057d4175c110c6302b495f38eebcb6}
+      \strng{fullhash}{3f057d4175c110c6302b495f38eebcb6}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{3–5}
+      \field{title}{Community detection in graphs}
+      \field{userf}{en}
+      \field{volume}{486}
+      \field{year}{2010}
+      \field{pages}{75\bibrangedash 174}
+      \range{pages}{100}
+    \endentry
+  \endsortlist
+  \missing{test-zh}
+  \missing{test-en}
+\endrefsection
+\endinput
+

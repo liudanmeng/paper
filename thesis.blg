@@ -1,0 +1,17 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'thesis.blg'
+[60] biber-darwin:290> INFO - === 六  4 29, 2017, 20:17:46
+[91] Biber.pm:351> INFO - Reading 'thesis.bcf'
+[217] Biber.pm:776> INFO - Found 4 citekeys in bib section 0
+[239] Biber.pm:3493> INFO - Processing section 0
+[256] Biber.pm:3657> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[258] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[260] bibtex.pm:1048> INFO - Found BibTeX data source 'thesis.bib'
+[263] Utils.pm:149> WARN - I didn't find a database entry for 'test-en' (section 0)
+[264] Utils.pm:149> WARN - I didn't find a database entry for 'test-zh' (section 0)
+[334] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[334] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
+[335] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'zh__pinyin'
+[338] bbl.pm:526> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[338] bbl.pm:619> INFO - Output to thesis.bbl
+[339] Biber.pm:108> INFO - WARNINGS: 2

@@ -39,16 +39,16 @@
 % 设定文档的基本信息。
 \pkuthssinfo{
     cthesisname = {硕士研究生学位论文}, ethesisname = {Doctor Thesis},
-    ctitle = {基于复杂网络的高速公路关键路段挖掘}, etitle = {Test Document},
+    ctitle = {面向高速路网的关键路段识别研究}, etitle = {Test Document},
     cauthor = {刘丹萌},
     eauthor = {Test},
     studentid = {1401214385},
     date = {2017年5月10日},
     school = {北京大学},
-    cmajor = {智能科学与技术(计算机科学与技术)}, emajor = {Some Major},
-    direction = {数据挖掘},
+    cmajor = {计算机科学与技术(智能科学与技术)}, emajor = {Some Major},
+    direction = {数据仓库与数据挖掘},
     cmentor = {宋国杰}, ementor = {Prof.\ Somebody},
-    ckeywords = {复杂网络，高速公路，关键节点}, ekeywords = {Complex network, Highway，Key node}
+    ckeywords = {复杂网络，高速公路，关键节点，社群划分}, ekeywords = {Complex network, Highway，Key node，Community}
 }
 % 载入参考文献数据库（注意不要省略“.bib”）。
 \addbibresource{thesis.bib}
@@ -99,17 +99,18 @@
 	% 版权声明。
 	\include{chap/copyright}
 	% 中英文摘要。
-	%\include{chap/abstract}
+	\include{chap/abstract}
 	% 自动生成目录。
 	\tableofcontents
+	\listoffigures
 
 	% 以下为正文部分，默认要进行章节编号。
 	\mainmatter
 	% 序言。
-	%\include{chap/introduction}
+	\include{chap/introduction}
 	% 各章节。
-	%\include{chap/chap1}
-	%\include{chap/chap2}
+	\include{chap/chap1}
+	\include{chap/chap2}
 	\include{chap/chap3}
 	\include{chap/chap4}
 	% 结论。
