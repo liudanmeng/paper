@@ -2088,10 +2088,6 @@
   <bcf:section number="0">
     <bcf:citekey order="1">NewmanBasic</bcf:citekey>
     <bcf:citekey order="2">test</bcf:citekey>
-    <bcf:citekey order="5">test-en</bcf:citekey>
-    <bcf:citekey order="6">test-zh</bcf:citekey>
-    <bcf:citekey order="7">test-en</bcf:citekey>
-    <bcf:citekey order="7">test-zh</bcf:citekey>
     <bcf:citekey order="8">test-en</bcf:citekey>
     <bcf:citekey order="9">test-zh</bcf:citekey>
     <bcf:citekey order="10">test-en</bcf:citekey>
@@ -2100,6 +2096,10 @@
     <bcf:citekey order="12">test-zh</bcf:citekey>
     <bcf:citekey order="13">test-en</bcf:citekey>
     <bcf:citekey order="13">test-zh</bcf:citekey>
+    <bcf:citekey order="14">test-en</bcf:citekey>
+    <bcf:citekey order="15">test-zh</bcf:citekey>
+    <bcf:citekey order="16">test-en</bcf:citekey>
+    <bcf:citekey order="16">test-zh</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

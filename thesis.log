@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  30 APR 2017 18:03
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  2 MAY 2017 04:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2352,6 +2352,13 @@ LaTeX Warning: Label `eq3' multiply defined.
 
 LaTeX Warning: Label `table1' multiply defined.
 
+) (./chap/chap5.aux
+
+LaTeX Warning: Label `fig21' multiply defined.
+
+
+LaTeX Warning: Label `fig21' multiply defined.
+
 ) (./chap/conclusion.aux) (./chap/encl1.aux) (./chap/acknowledge.aux)
 (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
@@ -3071,19 +3078,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-[52]
-Overfull \hbox (3.83199pt too wide) detected at line 42
-[] \U/ntxsym/m/n/15.05624 Í \OML/ntxmi/m/it/15.05624 Q \OT1/cmr/m/n/15.05624 = 
-[[] \OMS/ntxsy/m/n/15.05624 ^^@ []\OT1/cmr/m/n/15.05624 ] \OMS/ntxsy/m/n/15.056
-24 ^^@ \OT1/cmr/m/n/15.05624 [[] \OMS/ntxsy/m/n/15.05624 ^^@ [] ^^@ []\OT1/cmr/
-m/n/15.05624 ] \OMS/ntxsy/m/n/15.05624 ^^@ \OML/ntxmi/m/it/15.05624 L\OT1/cmr/m
-/n/15.05624 (\OML/ntxmi/m/it/15.05624 i\OT1/cmr/m/n/15.05624 )
- []
-
-
-Underfull \vbox (badness 2065) has occurred while \output is active []
-
- [53]
 File: picture/tiaoshu.png Graphic file (type QTm)
 
 <use  "picture/tiaoshu.png" >
@@ -3095,21 +3089,11 @@ File: picture/shequntexing.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[52] [53]
+Underfull \vbox (badness 4341) has occurred while \output is active []
 
- [55]
-File: picture/liuliangbianquan.png Graphic file (type QTm)
-
-<use  "picture/liuliangbianquan.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]
-Overfull \hbox (3.83199pt too wide) detected at line 119
+ [54]
+Overfull \hbox (3.83199pt too wide) detected at line 74
 [] \U/ntxsym/m/n/15.05624 Í \OML/ntxmi/m/it/15.05624 Q \OT1/cmr/m/n/15.05624 = 
 [[] \OMS/ntxsy/m/n/15.05624 ^^@ []\OT1/cmr/m/n/15.05624 ] \OMS/ntxsy/m/n/15.056
 24 ^^@ \OT1/cmr/m/n/15.05624 [[] \OMS/ntxsy/m/n/15.05624 ^^@ [] ^^@ []\OT1/cmr/
@@ -3118,64 +3102,99 @@ m/n/15.05624 ] \OMS/ntxsy/m/n/15.05624 ^^@ \OML/ntxmi/m/it/15.05624 L\OT1/cmr/m
  []
 
 
-Underfull \vbox (badness 7379) has occurred while \output is active []
+Underfull \vbox (badness 4518) has occurred while \output is active []
+
+ [55]
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
 Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 170.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 170.
 
+[58]
+File: picture/liuliangbianquan.png Graphic file (type QTm)
+ <use  "picture/liuliangbianquan.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 1571) has occurred while \output is active []
-
- [58]
-Underfull \vbox (badness 2538) has occurred while \output is active []
-
- [59]
+[59]
 File: picture/liuliangbianquan.png Graphic file (type QTm)
-
-<use  "picture/liuliangbianquan.png" >
+ <use  "picture/liuliangbianquan.png" >
 File: picture/xiaochuguli.png Graphic file (type QTm)
  <use  "picture/xiaochuguli.png" >
 File: picture/fenqunjieguo.png Graphic file (type QTm)
 
-<use  "picture/fenqunjieguo.png" > [60] [61]
-File: picture/greedy02.png Graphic file (type QTm)
- <use  "picture/greedy02.png" >
-File: picture/shequnhuafen.png Graphic file (type QTm)
+<use  "picture/fenqunjieguo.png" >
+Underfull \vbox (badness 2158) has occurred while \output is active []
 
-<use  "picture/shequnhuafen.png" >
+ [60]
+File: picture/fenqunend.png Graphic file (type QTm)
+
+<use  "picture/fenqunend.png" >
+File: picture/end.png Graphic file (type QTm)
+ <use  "picture/end.png" > [61] [62]
 File: picture/meiju.png Graphic file (type QTm)
- <use  "picture/meiju.png" >
-File: picture/greedy01.png Graphic file (type QTm)
 
-<use  "picture/greedy01.png" >
-File: picture/shequnhuafen.png Graphic file (type QTm)
- <use  "picture/shequnhuafen.png" >
-File: picture/hotsection01.png Graphic file (type QTm)
+<use  "picture/meiju.png" >
+File: picture/tanxin.png Graphic file (type QTm)
+ <use  "picture/tanxin.png" >
+File: picture/fenqun.png Graphic file (type QTm)
 
-<use  "picture/hotsection01.png" >
+<use  "picture/fenqun.png" >
+File: picture/hotsection.png Graphic file (type QTm)
+ <use  "picture/hotsection.png" > [63]) [64]
+[65]
+\openout2 = `chap/chap5.aux'.
+
+ (./chap/chap5.tex [66
+
+
+
+]
+第六章
+File: picture/jiagou.png Graphic file (type QTm)
+<use  "picture/jiagou.png" >
+File: picture/liuchengtu.png Graphic file (type QTm)
+ <use  "picture/liuchengtu.png" > [67]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: Reference `yuanxing1' on page 68 undefined on input line 36.
+
+
+LaTeX Warning: Reference `yuanxing2' on page 68 undefined on input line 36.
+
+File: picture/yuanxing1.png Graphic file (type QTm)
+<use  "picture/yuanxing1.png" >
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[62]
+File: picture/yuanxing2.png Graphic file (type QTm)
+<use  "picture/yuanxing2.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [63] [64]
+) [68] [69] [70]
 \openout2 = `chap/conclusion.aux'.
 
  (./chap/conclusion.tex
@@ -3206,7 +3225,7 @@ Overfull \hbox (46.25186pt too wide) in paragraph at lines 7--7
 /ntxtlf/m/n/15.05624 [[]]\EU1/STSong(0)/m/n/15.05624 、|$[]$。| 
  []
 
-) [65
+) [71
 
 
 
@@ -3215,22 +3234,22 @@ Overfull \hbox (46.25186pt too wide) in paragraph at lines 7--7
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
 
-[66
+[72
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.53937pt on input line 122.
+(Font)              scaled to size 10.53937pt on input line 123.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 122.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 123.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 122.
- [67]
+(Font)              scaled to size 10.53937pt on input line 123.
+ [73]
 \openout2 = `chap/encl1.aux'.
 
- (./chap/encl1.tex [68
+ (./chap/encl1.tex [74
 
 
 ]
@@ -3248,7 +3267,7 @@ Overfull \hbox (46.25186pt too wide) in paragraph at lines 7--7
 /ntxtlf/m/n/15.05624 [[]]\EU1/STSong(0)/m/n/15.05624 、|$[]$。| 
  []
 
-) [69] [70
+) [75] [76
 
 
 ]
@@ -3267,13 +3286,13 @@ Overfull \hbox (46.25186pt too wide) in paragraph at lines 7--7
 /ntxtlf/m/n/15.05624 [[]]\EU1/STSong(0)/m/n/15.05624 、|$[]$。| 
  []
 
-) [71
+) [77
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [72
+ (./chap/originauth.tex [78
 
 
 
@@ -3319,21 +3338,24 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 15.05624pt on input line 63.
- [73
+ [79
 
-] [74])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+] [80])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
 
 (./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux)
 (./chap/introduction.aux) (./chap/chap1.aux) (./chap/chap2.aux)
-(./chap/chap3.aux) (./chap/chap4.aux) (./chap/conclusion.aux) (./chap/encl1.aux
-) (./chap/acknowledge.aux) (./chap/originauth.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 144.
+(./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux) (./chap/conclusion.aux
+) (./chap/encl1.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 145.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3343,12 +3365,12 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48895 strings out of 493591
- 951818 string characters out of 6143546
- 1309704 words of memory out of 5000000
- 51483 multiletter control sequences out of 15000+600000
- 121930 words of font info for 195 fonts, out of 8000000 for 9000
+ 48932 strings out of 493591
+ 952812 string characters out of 6143546
+ 1312615 words of memory out of 5000000
+ 51511 multiletter control sequences out of 15000+600000
+ 127546 words of font info for 197 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 70i,12n,82p,10481b,4140s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,17n,82p,10481b,4140s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (90 pages).
+Output written on thesis.pdf (96 pages).
