@@ -2,53 +2,61 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 中国高速公路网络\relax }}{1}{figure.caption.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 国家科技支撑计划\relax }}{4}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 关键路段挖掘：以1h为区间\relax }}{47}{figure.caption.11}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 关键路段挖掘：以1h为区间\relax }}{41}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 关键路段挖掘：以1d为区间\relax }}{47}{figure.caption.11}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 关键路段挖掘：以1d为区间\relax }}{41}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces 不同方法求得的关键路段结果图\relax }}{48}{figure.caption.13}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 不同方法求得的关键路段结果图\relax }}{42}{figure.caption.13}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 关键路段挖掘：03：00\relax }}{43}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 这是一个有味道的图}}{53}{figure.caption.16}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces fig1\relax }}{53}{figure.caption.17}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces fig1\relax }}{60}{figure.caption.19}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces fig1\relax }}{61}{figure.caption.20}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces fig2\relax }}{61}{figure.caption.20}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces fig1\relax }}{62}{figure.caption.21}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces 图片还得再画\relax }}{63}{figure.caption.23}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces 图片还得再画\relax }}{63}{figure.caption.23}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.9}{\ignorespaces fig1\relax }}{63}{figure.caption.24}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.10}{\ignorespaces fig2\relax }}{63}{figure.caption.24}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.11}{\ignorespaces fig1\relax }}{63}{figure.caption.25}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.12}{\ignorespaces fig2\relax }}{63}{figure.caption.25}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 关键路段挖掘：09:00\relax }}{43}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces fig1\relax }}{67}{figure.caption.29}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 高速公路车辆跳数分布图\relax }}{47}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces fig1\relax }}{69}{figure.caption.30}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 高速公路社群特性\relax }}{47}{figure.caption.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.3}{\ignorespaces fig1\relax }}{70}{figure.caption.31}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 基于模块化函数的社群划分方法\relax }}{54}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.4}{\ignorespaces fig1\relax }}{70}{figure.caption.32}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 基于模块化函数的社群划分方法\relax }}{55}{figure.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 结合物理路网特性的社群挖掘\relax }}{55}{figure.caption.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 结合路段距离的变权社群挖掘结果\relax }}{56}{figure.caption.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 对比实验：以1h为区间\relax }}{57}{figure.caption.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 对比实验：以1d为区间\relax }}{57}{figure.caption.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 枚举求得关键节点\relax }}{57}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 贪心求得关键节点\relax }}{57}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 基于社群划分的关键节点\relax }}{57}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces 基于统计学的关键节点\relax }}{57}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 智能高速系统架构\relax }}{61}{figure.caption.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces mapreduce流程图\relax }}{62}{figure.caption.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 关键路段挖掘系统流程图\relax }}{64}{figure.caption.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 系统分群结果图\relax }}{65}{figure.caption.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 系统路段选取结果图\relax }}{65}{figure.caption.34}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

@@ -24,7 +24,7 @@
 						\begin{minipage}{0.8\linewidth}
 							\centering
 							\includegraphics[width=4.4in]{picture/tiaoshu}
-							\caption[这是一个有味道的图]{fig1}
+							\caption{高速公路车辆跳数分布图}
 							\label{fig4}
 						\end{minipage}%\
 				\end{figure}
@@ -36,7 +36,7 @@
 						\begin{minipage}{0.8\linewidth}
 							\centering
 							\includegraphics[width=4.4in]{picture/shequntexing}
-							\caption{fig1}
+							\caption{高速公路社群特性}
 							\label{fig5}
 						\end{minipage}%\
 				\end{figure}
@@ -55,7 +55,7 @@
 
 				传统的复杂网络社群划分系统中，大都是针对虚拟网络（如社交网络）进行研究。高速公路网络和虚拟网络有很大的不同。在虚拟网络中，两个点之间只要有交流，那就代表有边相连；在高速公路中，我们认为只要两个收费站有流量交流，即O-D不为0，那么这两个收费站之间就有边连接（不同于上一章的路网定义）。但是这个边和其他的复杂网络如社交网络不同，社交网络中两个节点之间的空间距离就是1跳，但是对于物理网络来说，两个节点之间的边具有实体距离。高速公路中路段之间的影响也会根据物理距离的变化而变化，这些都是传统方法中没有考虑到的。
 
-				2004年，Newman和Girvan[]提出了一个用于刻画网络社区结构优劣的量化标准，被称作模块化函数。简单的带权模块化函数定义如下：
+				2004年，Newman和Girvan\parencite{NewmanBasic}提出了一个用于刻画网络社区结构优劣的量化标准，被称作模块化函数。简单的带权模块化函数定义如下：
 
 				\begin{equation}
 				Q = \frac{1}{{2m}}\sum\limits_{ij} {[{A_{ij}} - \frac{{{k_i}{k_j}}}{{2m}}]\delta ({c_i},{c_j})}
@@ -64,7 +64,7 @@
 
 				式\ref{eq4}中，$A_{ij}$表示节点$i$和节点$j$之间的边权；$k_i=\sum\limits_{j} {A_{ij}}$表示所有与节点i相连的边的边权和；$c_i$是指i所属的社群编号；如果$c_i=c_j$，那么$\delta (u,v)=1$,否则等于0；$m=\frac{1}{{2}}\sum\limits_{ij} {A_{ij}}$。
 
-				模块化函数主要用于度量社群划分结构的优劣，现有的基于模块化函数的分群算法都没有考虑高速公路的特性\parencite{}，并且在高速公路网络上出现了低分辨率特性和极端退化特性\parencite{}。Newman提出了一种社群挖掘方法\parencite{}：初始的时候没个节点都是一个社群，之后进行迭代，每次迭代时都选择使目标模块函数在Q增加最大的社群进行合并。这个方法虽然在时间效率上很高，但是没有解社群划分的决极端退化特性。Guimera提出一种基于模拟退火的模块性优化方法：初始解是随机生成的社团集合，在每次迭代过程中，采用一定策略，结合当前解生成新的解集，用模块化函数Q判断解集的优劣，最后用模拟退火中的Metropolis准则来决定是否采用该解。这个方法虽然在一定程度上解决了极端退化特性，但是他有一个很严重的问题，在相通的输入集合上，生成的最终结果往往不同，不符合稳定性要求，而且时间复杂度大，求解效率低。Blondel\parencite{}提出快速模块优化方法，他认为首先在局部使用局部模块化函数f获得局部社团，然后再对这些局部社团作为一种超级节点，再进行合并，不断迭代，直到模块化函数Q不再增加为止。这个聚类方法存在聚类社团过大的情况，不符合本文中缩小节点量级，优化算法时间复杂度的目的。针对现有研究的不足，结合高速公路的路网特性，在此提出一种新的面向高速公路的社群划分模型。
+				模块化函数主要用于度量社群划分结构的优劣，现有的基于模块化函数的分群算法都没有考虑高速公路的特性\parencite{WeightPretreatment}，并且在高速公路网络上出现了低分辨率特性和极端退化特性\parencite{Ren2014The}。Newman提出了一种社群挖掘方法\parencite{NewmanFast}：初始的时候没个节点都是一个社群，之后进行迭代，每次迭代时都选择使目标模块函数在Q增加最大的社群进行合并。这个方法虽然在时间效率上很高，但是没有解社群划分的决极端退化特性。Guimera提出一种基于模拟退火的模块性优化方法：初始解是随机生成的社团集合，在每次迭代过程中，采用一定策略，结合当前解生成新的解集，用模块化函数Q判断解集的优劣，最后用模拟退火中的Metropolis准则来决定是否采用该解。这个方法虽然在一定程度上解决了极端退化特性，但是他有一个很严重的问题，在相通的输入集合上，生成的最终结果往往不同，不符合稳定性要求，而且时间复杂度大，求解效率低。Blondel\parencite{TuihuoEfficency}提出快速模块优化方法，他认为首先在局部使用局部模块化函数f获得局部社团，然后再对这些局部社团作为一种超级节点，再进行合并，不断迭代，直到模块化函数Q不再增加为止。这个聚类方法存在聚类社团过大的情况，不符合本文中缩小节点量级，优化算法时间复杂度的目的。针对现有研究的不足，结合高速公路的路网特性，在此提出一种新的面向高速公路的社群划分模型。
 
 				首先定义模块化函数Q:
 
@@ -98,7 +98,7 @@
 				\label{eq11}
 				\end{equation}
 
-				为了解决传统社群划分中的低分辨率问题，本文中的社群划分方法也采用自底向上的聚类思想，首先定义每一个节点都是一个社群，在每次迭代过程中，利用模块化函数$\vartriangle Q$，依次判断每一个节点所属的社群。同时为了解决社群划分的极端退化问题，我们采用多变权值的思想\parencite{}，逐步加大路段距离的权重，减少解集的规模；利用模拟退火思想，定义解集合的数量为$|C|$，利用两次迭代过程中的最终解集合的数量差，结合退火温度，加速模块收敛。分群算法伪代码如下：
+				为了解决传统社群划分中的低分辨率问题，本文中的社群划分方法也采用自底向上的聚类思想，首先定义每一个节点都是一个社群，在每次迭代过程中，利用模块化函数$\vartriangle Q$，依次判断每一个节点所属的社群。同时为了解决社群划分的极端退化问题，我们采用多变权值的思想\parencite{Kerner2015The}，逐步加大路段距离的权重，减少解集的规模；利用模拟退火思想，定义解集合的数量为$|C|$，利用两次迭代过程中的最终解集合的数量差，结合退火温度，加速模块收敛。分群算法伪代码如下：
 
 				\begin{algorithm}[h]
 		        \caption{高速公路社群划分方法}  
@@ -191,14 +191,14 @@
 	\section{实验及结果}
 		本章节出了针对每一种方法的有效性做出实验，并将基于高速公路社群划分方法的实际效果与通过枚举得到的最优解进行对比。
 
-		基本的社群划分存在分辨率限制和极端退化特性。分辨率限制是指社群划分方法无法发现小于一定规模的社群，极端退化特性是指最终的社群划分结果会收敛于指数数量级的高分解决方案，而不是指向一个或少量最优解。[xxx]采用一种方法解决低分辨率问题：初始化时，将每一个节点看作一个独立的社群，之后根据模块化函数不断循环修正节点的所属社群。这个方法用在高速公路上时，虽然解决了低分辨率社群无法发现的问题，但是最终会产生一系列孤立点（如图\ref{gulidian}），这不符合社群划分的初衷。而且最终结果也没有避开极端退化特性，最终的社群划分结果在一个非常大的解空间中循环。
+		基本的社群划分存在分辨率限制和极端退化特性。分辨率限制是指社群划分方法无法发现小于一定规模的社群，极端退化特性是指最终的社群划分结果会收敛于指数数量级的高分解决方案，而不是指向一个或少量最优解。Newman\parencite{NewmanFast}采用一种方法解决低分辨率问题：初始化时，将每一个节点看作一个独立的社群，之后根据模块化函数不断循环修正节点的所属社群。这个方法用在高速公路上时，虽然解决了低分辨率社群无法发现的问题，但是最终会产生一系列孤立点（如图\ref{gulidian}），这不符合社群划分的初衷。而且最终结果也没有避开极端退化特性，最终的社群划分结果在一个非常大的解空间中循环。
 
 			\begin{figure}[h]
 			\centering
 					\begin{minipage}{0.8\linewidth}
 						\centering
 						\includegraphics[width=4.4in]{picture/liuliangbianquan}
-						\caption{fig1}
+						\caption{基于模块化函数的社群划分方法}
 						\label{gulidian}
 					\end{minipage}
 			\end{figure}
@@ -215,13 +215,13 @@
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=2.2in]{picture/liuliangbianquan}
-					\caption{fig1}
+					\caption{基于模块化函数的社群划分方法}
 					\label{fenqun1}
 				\end{minipage}%
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=2.2in]{picture/xiaochuguli}
-					\caption{fig2}
+					\caption{结合物理路网特性的社群挖掘}
 					\label{fenqun2}
 				\end{minipage}
 				\end{figure}
@@ -232,7 +232,7 @@
 				\begin{figure}
 				\centering
 				\includegraphics[width=4.4in]{picture/fenqunjieguo}
-				\caption{fig1}
+				\caption{结合路段距离的变权社群挖掘结果}
 				\label{fenqun3}
 				\end{figure}
 
@@ -252,7 +252,7 @@
 				  收敛度 &   $10^3$ &   $10^2$ &   $0-10$  \\
 				\hline
 				\end{tabular}
-				\caption{example of table}
+				\caption{不同社群划分方法效果对比}
 				\label{table10}
 				\end{table} 
 
@@ -264,13 +264,13 @@
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/fenqunend}
-					\caption{图片还得再画}
+					\caption{对比实验：以1h为区间}
 					\label{fenqunend}
 				\end{minipage}%
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/end}
-					\caption{图片还得再画}
+					\caption{对比实验：以1d为区间}
 					\label{end}
 				\end{minipage}
 				\end{figure}
@@ -281,13 +281,13 @@
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/meiju}
-					\caption{fig1}
+					\caption{枚举求得关键节点}
 					\label{jihe1}
 				\end{minipage}%
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/tanxin}
-					\caption{fig2}
+					\caption{贪心求得关键节点}
 					\label{jihe2}
 				\end{minipage}
 				\end{figure}
@@ -296,13 +296,13 @@
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/fenqun}
-					\caption{fig1}
+					\caption{基于社群划分的关键节点}
 					\label{jihe3}
 				\end{minipage}%
 				\begin{minipage}{0.5\linewidth}
 					\centering
 					\includegraphics[width=3in]{picture/hotsection}
-					\caption{fig2}
+					\caption{基于统计学的关键节点}
 					\label{jihe4}
 				\end{minipage}
 				\end{figure}
@@ -325,7 +325,7 @@
 				 一月 &  12.99\% &  11.59\% \\
 				\hline
 				\end{tabular}
-				\caption{example of table}
+				\caption{路网通行效率提升量误差分析}
 				\label{table1}
 				\end{table} 
 
@@ -349,7 +349,7 @@
 				  一月 &   0.14\% &   0.18\% \\
 				\hline
 				\end{tabular}
-				\caption{example of table}
+				\caption{关键节点选取误差分析}
 				\label{table2}
 				\end{table} 
 
@@ -373,7 +373,7 @@
 				  一月 &   7day &   3h &   7min &   8min \\
 				\hline
 				\end{tabular}
-				\caption{example of table}
+				\caption{不同方法运行效率分析}
 				\label{table3}
 				\end{table} 
 

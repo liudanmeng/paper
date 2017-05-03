@@ -261,6 +261,24 @@
 				\label{fig2}
 				\end{figure}
 
+				在实验过程中，我们还发现当时间区间缩短到1h时，高速公路网络中的关键路段具有随着时间和流量变化而变化的特性。图\ref{duibi1}是凌晨3点时的高速公路关键路段集合，图\ref{duibi2}是早上九点时的高速公路关键节点集合。这一发现证明了高速公路的关键路段具有动态变化特性，他不是一成不变的，而是会随着整个路网的流量的变化而变化。
+
+
+				\begin{figure}[h]
+				\begin{minipage}{0.5\linewidth}
+					\centering
+					\includegraphics[width=3.0in]{picture/duibi1}
+					\caption{关键路段挖掘：03：00}
+					\label{duibi1}
+				\end{minipage}%
+				\begin{minipage}{0.5\linewidth}
+					\centering
+					\includegraphics[width=3.0in]{picture/duibi2}
+					\caption{关键路段挖掘：09:00}
+					\label{duibi2}
+				\end{minipage}
+				\end{figure}
+
 			\subsection{时间复杂度分析}
 				基于暴力枚举方法的时间复杂度：$O({n^B}*{2^n})$
 
@@ -289,7 +307,7 @@
 				  一月 &   7day &   3h &   8min &   1min \\
 				\hline
 				\end{tabular}
-				\caption{不同方法的运行时间}
+				\caption{不同算法的运行时间}
 				\label{table1}
 				\end{table} 
 
