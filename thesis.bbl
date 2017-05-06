@@ -1717,6 +1717,68 @@
       \field{pages}{75\bibrangedash 174}
       \range{pages}{100}
     \endentry
+    \entry{WeightPretreatment}{article}{}
+      \name{author}{3}{}{%
+        {{hash=353a86532228f92a8a1534a20dc199f9}{%
+           family={Khadivi},
+           family_i={K\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=25adf6f49e724b4ad5743d3195b322be}{%
+           family={Ajdari},
+           family_i={A\bibinitperiod},
+           given={Rad\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0d962515cff49f0fb673eafe40791f58}{%
+           family={Hasler},
+           family_i={H\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{682ae16f241808b62120ee869a6cd68e}
+      \strng{fullhash}{682ae16f241808b62120ee869a6cd68e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{2}
+      \field{title}{Network community-detection enhancement by proper weighting.}
+      \field{userf}{en}
+      \field{volume}{83}
+      \field{year}{2011}
+      \field{pages}{894\bibrangedash 901}
+      \range{pages}{8}
+    \endentry
+    \entry{Ren2014The}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5c87ac6d18eeba46e236e342d652e632}{%
+           family={Ren},
+           family_i={R\bibinitperiod},
+           given={Chuanxiang},
+           given_i={C\bibinitperiod}}}%
+        {{hash=e3efb6fa1d5b2cd1a51b8430174fa86a}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Fasheng},
+           given_i={F\bibinitperiod}}}%
+        {{hash=cbe3d4d62aa7eb719d3fc6882e631041}{%
+           family={Zhou},
+           family_i={Z\bibinitperiod},
+           given={Li},
+           given_i={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{905229ea0b27955c5354125db5614462}
+      \strng{fullhash}{905229ea0b27955c5354125db5614462}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Shandong University of Science \& Technology}
+      \field{title}{The Position of Connected-way for Highway and Urban Road Based on Node Importance Analysis Method}
+      \field{userf}{en}
+      \field{year}{2014}
+    \endentry
     \entry{NewmanFast}{article}{}
       \name{author}{1}{}{%
         {{hash=e10496a046558ed6c27e3a9373727f7f}{%
@@ -1739,6 +1801,34 @@
       \field{year}{2004}
       \field{pages}{066133}
       \range{pages}{1}
+    \endentry
+    \entry{TuihuoEfficency}{article}{}
+      \name{author}{2}{}{%
+        {{hash=af9f7c73a3775f453b93fd3e906dd877}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Zhi},
+           given_i={Z\bibinitperiod}}}%
+        {{hash=e0bdf7f27c951c7c257d2ae1a2d85ea0}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Jianzhi},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{453de58bc8e5c31417703de09a1e3d33}
+      \strng{fullhash}{453de58bc8e5c31417703de09a1e3d33}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Plos Computational Biology}
+      \field{number}{3}
+      \field{title}{In Search of the Biological Significance of Modular Structures in Protein Networks}
+      \field{userf}{en}
+      \field{volume}{3}
+      \field{year}{2007}
+      \field{pages}{e107}
+      \range{pages}{-1}
     \endentry
   \endsortlist
   \missing{test-en}

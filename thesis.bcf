@@ -2149,21 +2149,22 @@
     <bcf:citekey order="61">L2011Small</bcf:citekey>
     <bcf:citekey order="62">NewmanBasic</bcf:citekey>
     <bcf:citekey order="63">test</bcf:citekey>
-    <bcf:citekey order="64">NewmanBasic</bcf:citekey>
-    <bcf:citekey order="65">WeightPretreatment</bcf:citekey>
-    <bcf:citekey order="66">Ren2014The</bcf:citekey>
-    <bcf:citekey order="67">NewmanFast</bcf:citekey>
-    <bcf:citekey order="68">TuihuoEfficency</bcf:citekey>
-    <bcf:citekey order="69">Kerner2015The</bcf:citekey>
-    <bcf:citekey order="70">NewmanFast</bcf:citekey>
-    <bcf:citekey order="71">test-en</bcf:citekey>
-    <bcf:citekey order="72">test-zh</bcf:citekey>
-    <bcf:citekey order="73">test-en</bcf:citekey>
+    <bcf:citekey order="64">Chen2012Identifying</bcf:citekey>
+    <bcf:citekey order="65">Phillip1972Factoring</bcf:citekey>
+    <bcf:citekey order="66">NewmanBasic</bcf:citekey>
+    <bcf:citekey order="67">WeightPretreatment</bcf:citekey>
+    <bcf:citekey order="68">Ren2014The</bcf:citekey>
+    <bcf:citekey order="69">NewmanFast</bcf:citekey>
+    <bcf:citekey order="70">TuihuoEfficency</bcf:citekey>
+    <bcf:citekey order="71">NewmanFast</bcf:citekey>
+    <bcf:citekey order="72">test-en</bcf:citekey>
     <bcf:citekey order="73">test-zh</bcf:citekey>
     <bcf:citekey order="74">test-en</bcf:citekey>
-    <bcf:citekey order="75">test-zh</bcf:citekey>
-    <bcf:citekey order="76">test-en</bcf:citekey>
+    <bcf:citekey order="74">test-zh</bcf:citekey>
+    <bcf:citekey order="75">test-en</bcf:citekey>
     <bcf:citekey order="76">test-zh</bcf:citekey>
+    <bcf:citekey order="77">test-en</bcf:citekey>
+    <bcf:citekey order="77">test-zh</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
