@@ -19,6 +19,65 @@
 
 \refsection{0}
   \sortlist[entry]{none/global/}
+    \entry{ysk2017qx}{article}{}
+      \name{author}{3}{}{%
+        {{hash=21b44f25ffb62e3063184cf536770b29}{%
+           family={姚寿康},
+           family_i={姚\bibinitperiod}}}%
+        {{hash=5b87dbf830e1963561adc89e3460aa20}{%
+           family={曹小军},
+           family_i={曹\bibinitperiod}}}%
+        {{hash=b5c4d23dafabdc76ec744bd4e3d3290e}{%
+           family={刘杰},
+           family_i={刘\bibinitperiod}}}%
+      }
+      \strng{namehash}{11c298e8310b1013fa8876ecc0def87e}
+      \strng{fullhash}{11c298e8310b1013fa8876ecc0def87e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{工程技术:全文版}
+      \field{number}{2}
+      \field{title}{浅析高速公路养护技术}
+      \field{userf}{en}
+      \field{year}{2017}
+      \field{pages}{00155\bibrangedash 00155}
+      \range{pages}{1}
+    \endentry
+    \entry{WeightPretreatment}{article}{}
+      \name{author}{3}{}{%
+        {{hash=353a86532228f92a8a1534a20dc199f9}{%
+           family={Khadivi},
+           family_i={K\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=25adf6f49e724b4ad5743d3195b322be}{%
+           family={Ajdari},
+           family_i={A\bibinitperiod},
+           given={Rad\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0d962515cff49f0fb673eafe40791f58}{%
+           family={Hasler},
+           family_i={H\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{682ae16f241808b62120ee869a6cd68e}
+      \strng{fullhash}{682ae16f241808b62120ee869a6cd68e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{2}
+      \field{title}{Network community-detection enhancement by proper weighting.}
+      \field{userf}{en}
+      \field{volume}{83}
+      \field{year}{2011}
+      \field{pages}{894\bibrangedash 901}
+      \range{pages}{8}
+    \endentry
     \entry{YipTongji}{article}{}
       \name{author}{6}{}{%
         {{hash=bbbc1b9c3be794f7a6dce08afed57279}{%
@@ -149,6 +208,112 @@
       \field{userf}{en}
       \field{volume}{10}
       \field{year}{2017}
+    \endentry
+    \entry{Song2011Node}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0e574c905533ac9a8f5731fba90a99e2}{%
+           family={Song},
+           family_i={S\bibinitperiod},
+           given={Xinsheng},
+           given_i={X\bibinitperiod}}}%
+        {{hash=aefee337e92d038bafe8e23403a2d468}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Xiaoxiao},
+           given_i={X\bibinitperiod}}}%
+        {{hash=686e68a7a2c3a77ebecb0457f4b4fab4}{%
+           family={Aizeng},
+           family_i={A\bibinitperiod},
+           given={L.\bibnamedelimi I.},
+           given_i={L\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=b68743cd684dbb2a2ccb740397ee2e17}{%
+           family={Lei},
+           family_i={L\bibinitperiod},
+           given={Zhang},
+           given_i={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{245853480e2dcebecd56c1d05e6783cc}
+      \strng{fullhash}{bd1fabad537533d2461be21fbfd53892}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Transportation Systems Engineering \& Information Technology}
+      \field{number}{2}
+      \field{title}{Node Importance Evaluation Method for Highway Network of Urban Agglomeration}
+      \field{userf}{en}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{84\bibrangedash 90}
+      \range{pages}{7}
+    \endentry
+    \entry{Wang2011Signal}{article}{}
+      \name{author}{4}{}{%
+        {{hash=944d21a090d2fc32d2cdd40c7a346126}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Li},
+           given_i={L\bibinitperiod}}}%
+        {{hash=dc716320a53a3fe542e0a64d848025b4}{%
+           family={Yan},
+           family_i={Y\bibinitperiod},
+           given={Pei\bibnamedelima Zhou},
+           given_i={P\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=4696fe11de1a5ff460a7ac468d12516b}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Ying\bibnamedelima Hong},
+           given_i={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2bf23f89873622f4ffd1ef09817af022}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Zheng\bibnamedelima Xi},
+           given_i={Z\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{045fc5b623dd9c89f62113ac35da2564}
+      \strng{fullhash}{8bf1a8880739296e1ff19c2d69e751d4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Signal sub-control-area division of traffic complex network based on nodes importance assessment}
+      \field{userf}{en}
+      \field{year}{2011}
+      \field{pages}{5606\bibrangedash 5609}
+      \range{pages}{4}
+    \endentry
+    \entry{Wang2013Calculating}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a082496f813d6f09600d413d3562e3bf}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Zhengwu},
+           given_i={Z\bibinitperiod}}}%
+        {{hash=e4e797057c24d297950724e04f46d81d}{%
+           family={Kuang},
+           family_i={K\bibinitperiod},
+           given={Aiwu},
+           given_i={A\bibinitperiod}}}%
+        {{hash=79e28dc28fa34371f7b9b9228b573715}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Hejie},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b76b9421978a318d197301aa920b1966}
+      \strng{fullhash}{b76b9421978a318d197301aa920b1966}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Journal of Applied Sciences Engineering \& Technology}
+      \field{number}{1}
+      \field{title}{Calculating Node Importance Considering Cascading Failure in Traffic Networks}
+      \field{userf}{en}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{264\bibrangedash 269}
+      \range{pages}{6}
     \endentry
     \entry{Phillip1972Factoring}{article}{}
       \name{author}{1}{}{%
@@ -1717,39 +1882,6 @@
       \field{pages}{75\bibrangedash 174}
       \range{pages}{100}
     \endentry
-    \entry{WeightPretreatment}{article}{}
-      \name{author}{3}{}{%
-        {{hash=353a86532228f92a8a1534a20dc199f9}{%
-           family={Khadivi},
-           family_i={K\bibinitperiod},
-           given={A},
-           given_i={A\bibinitperiod}}}%
-        {{hash=25adf6f49e724b4ad5743d3195b322be}{%
-           family={Ajdari},
-           family_i={A\bibinitperiod},
-           given={Rad\bibnamedelima A},
-           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=0d962515cff49f0fb673eafe40791f58}{%
-           family={Hasler},
-           family_i={H\bibinitperiod},
-           given={M},
-           given_i={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{682ae16f241808b62120ee869a6cd68e}
-      \strng{fullhash}{682ae16f241808b62120ee869a6cd68e}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
-      \field{number}{2}
-      \field{title}{Network community-detection enhancement by proper weighting.}
-      \field{userf}{en}
-      \field{volume}{83}
-      \field{year}{2011}
-      \field{pages}{894\bibrangedash 901}
-      \range{pages}{8}
-    \endentry
     \entry{Ren2014The}{article}{}
       \name{author}{3}{}{%
         {{hash=5c87ac6d18eeba46e236e342d652e632}{%
@@ -1831,8 +1963,8 @@
       \range{pages}{-1}
     \endentry
   \endsortlist
-  \missing{test-en}
   \missing{test-zh}
+  \missing{test-en}
 \endrefsection
 \endinput
 

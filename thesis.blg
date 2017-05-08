@@ -1,19 +1,19 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'thesis.blg'
-[56] biber-darwin:290> INFO - === 五  5  5, 2017, 14:34:15
-[80] Biber.pm:351> INFO - Reading 'thesis.bcf'
-[195] Biber.pm:776> INFO - Found 58 citekeys in bib section 0
-[209] Biber.pm:3493> INFO - Processing section 0
-[224] Biber.pm:3657> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[231] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[238] bibtex.pm:1048> INFO - Found BibTeX data source 'thesis.bib'
-[241] Utils.pm:149> WARN - Duplicate entry key: 'Phillip1972Factoring' in file 'thesis.bib', skipping ...
-[246] Utils.pm:149> WARN - Duplicate entry key: 'L2011Small' in file 'thesis.bib', skipping ...
-[317] Utils.pm:149> WARN - I didn't find a database entry for 'test-en' (section 0)
-[317] Utils.pm:149> WARN - I didn't find a database entry for 'test-zh' (section 0)
-[404] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
-[405] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[405] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'zh__pinyin'
-[437] bbl.pm:526> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[450] bbl.pm:619> INFO - Output to thesis.bbl
-[450] Biber.pm:108> INFO - WARNINGS: 4
+[53] biber-darwin:290> INFO - === 二  5  9, 2017, 00:39:34
+[88] Biber.pm:351> INFO - Reading 'thesis.bcf'
+[200] Biber.pm:776> INFO - Found 62 citekeys in bib section 0
+[212] Biber.pm:3493> INFO - Processing section 0
+[232] Biber.pm:3657> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[239] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[246] bibtex.pm:1048> INFO - Found BibTeX data source 'thesis.bib'
+[249] Utils.pm:149> WARN - Duplicate entry key: 'Phillip1972Factoring' in file 'thesis.bib', skipping ...
+[257] Utils.pm:149> WARN - Duplicate entry key: 'L2011Small' in file 'thesis.bib', skipping ...
+[335] Utils.pm:149> WARN - I didn't find a database entry for 'test-en' (section 0)
+[335] Utils.pm:149> WARN - I didn't find a database entry for 'test-zh' (section 0)
+[416] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[417] UCollate.pm:66> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
+[417] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'zh__pinyin'
+[462] bbl.pm:526> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[471] bbl.pm:619> INFO - Output to thesis.bbl
+[471] Biber.pm:108> INFO - WARNINGS: 4
