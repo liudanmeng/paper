@@ -74,6 +74,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2.2}模型定义}{51}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}基于社群划分的关键路段求解}{53}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}实验及结果}{56}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}本章小结}{62}{section.4.4}
@@ -84,20 +86,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}系统架构}{63}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}结合高速公路分群算法的并行策略}{64}{section.5.3}
+\contentsline {section}{\numberline {5.3}界面功能展示}{64}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}界面功能展示}{64}{section.5.4}
+\contentsline {section}{\numberline {5.4}本章小结}{64}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}本章小结}{65}{section.5.5}
+\contentsline {chapter}{总结与展望}{67}{chapter*.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{总结与展望}{67}{chapter*.36}
+\contentsline {subsection}{\numberline {5.4.1}主要工作}{67}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}主要工作}{67}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.4.2}未来工作展望}{68}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.2}未来工作展望}{68}{subsection.5.5.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{参考文献}{69}{appendix*.38}
+\contentsline {chapter}{参考文献}{69}{appendix*.37}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {附录 A\hspace {0.3em}}附件}{73}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{75}{appendix*.39}
+\contentsline {chapter}{致谢}{75}{appendix*.38}

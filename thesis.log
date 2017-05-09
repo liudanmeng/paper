@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  9 MAY 2017 01:04
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  9 MAY 2017 01:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2790,13 +2790,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
- [10] (./thesis.lof [11
-
-])
+ [10] (./thesis.lof)
 \tf@lof=\write8
 \openout8 = `thesis.lof'.
 
- [12] (./thesis.lot)
+ [11
+
+] [12] (./thesis.lot)
 \tf@lot=\write9
 \openout9 = `thesis.lot'.
 
@@ -3022,10 +3022,7 @@ Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
+[53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
@@ -3102,31 +3099,26 @@ File: picture/liuchengtu.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: picture/mapreduce.png Graphic file (type QTm)
-<use  "picture/mapreduce.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: picture/yuanxing1.png Graphic file (type QTm)
 <use  "picture/yuanxing1.png" >
 File: picture/yuanxing2.png Graphic file (type QTm)
- <use  "picture/yuanxing2.png" > [64]
+ <use  "picture/yuanxing2.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [65] [66]
+[64]) [65]
 \openout2 = `chap/conclusion.aux'.
 
- (./chap/conclusion.tex
+ (./chap/conclusion.tex [66
+
+
+
+]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 9.
 
-[67
-
-
-
-]) [68]
+[67]) [68]
 
 Package biblatex Warning: sorting option to \printbibliography is no longer sup
 ported, use 'sorting' option to \newrefcontext.
@@ -3274,10 +3266,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49189 strings out of 493591
- 962682 string characters out of 6143546
- 1315780 words of memory out of 5000000
- 51755 multiletter control sequences out of 15000+600000
+ 49186 strings out of 493591
+ 962637 string characters out of 6143546
+ 1315752 words of memory out of 5000000
+ 51753 multiletter control sequences out of 15000+600000
  128604 words of font info for 201 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  70i,17n,82p,10481b,4375s stack positions out of 5000i,500n,10000p,200000b,80000s
