@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  9 MAY 2017 01:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2017.4.24)  10 MAY 2017 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2933,22 +2933,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no ， in font [lmroman17-regular]:mapping=tex-text!
 Missing character: There is no ， in font [lmroman17-regular]:mapping=tex-text!
 
-[37] [38]
+[37]
+Underfull \vbox (badness 1389) has occurred while \output is active []
+
+ [38]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 97.
+put line 94.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12.045> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 94.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.045pt on input line 97.
+(Font)              scaled to size 12.045pt on input line 94.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 102.
+(Font)              scaled to size 9.03374pt on input line 99.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 12.045pt on input line 102.
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
- [39]
-Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+(Font)              scaled to size 12.045pt on input line 99.
 Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
 Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
@@ -2959,30 +2957,40 @@ Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40] [41]
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+Missing character: There is no ， in font [lmroman12-regular]:mapping=tex-text!
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39] [40] [41]
 File: picture/one_day_5.png Graphic file (type QTm)
  <use  "picture/one_day_5.png" >
 File: picture/one_week_5.png Graphic file (type QTm)
- <use  "picture/one_week_5.png" >
-[42]
+
+<use  "picture/one_week_5.png" > [42]
 File: picture/tanxin.png Graphic file (type QTm)
  <use  "picture/tanxin.png" >
 File: picture/hotsection.png Graphic file (type QTm)
- <use  "picture/hotsection.png" >
+
+<use  "picture/hotsection.png" >
 File: picture/meiju.png Graphic file (type QTm)
-
-<use  "picture/meiju.png" >
+ <use  "picture/meiju.png" >
 File: picture/degree.png Graphic file (type QTm)
- <use  "picture/degree.png" > [43] [44]
-File: picture/duibi1.png Graphic file (type QTm)
 
-<use  "picture/duibi1.png" >
+<use  "picture/degree.png" > [43] [44]
+File: picture/duibi1.png Graphic file (type QTm)
+ <use  "picture/duibi1.png" >
 File: picture/duibi2.png Graphic file (type QTm)
- <use  "picture/duibi2.png" > [45]) [46]
+
+<use  "picture/duibi2.png" > [45]) [46]
 \openout2 = `chap/chap4.aux'.
 
-
-(./chap/chap4.tex
+ (./chap/chap4.tex
 第四章
 [47
 
@@ -3268,7 +3276,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  49186 strings out of 493591
  962637 string characters out of 6143546
- 1315752 words of memory out of 5000000
+ 1315753 words of memory out of 5000000
  51753 multiletter control sequences out of 15000+600000
  128604 words of font info for 201 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
