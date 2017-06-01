@@ -78,6 +78,109 @@
       \field{pages}{894\bibrangedash 901}
       \range{pages}{8}
     \endentry
+    \entry{Jenelius2006Importance}{article}{}
+      \name{author}{3}{}{%
+        {{hash=af6fc9ee35fbf101ab664e1a1d2f759d}{%
+           family={Jenelius},
+           family_i={J\bibinitperiod},
+           given={Erik},
+           given_i={E\bibinitperiod}}}%
+        {{hash=8f5b3d13934f261e59add3a738d25bd5}{%
+           family={Petersen},
+           family_i={P\bibinitperiod},
+           given={Tom},
+           given_i={T\bibinitperiod}}}%
+        {{hash=d8ac694fd1703f839de233750c5b1abe}{%
+           family={Mattsson},
+           family_i={M\bibinitperiod},
+           given={Lars\bibnamedelima Göran},
+           given_i={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c4cf18f9cc356bb446cb4d0a64e7f9f}
+      \strng{fullhash}{3c4cf18f9cc356bb446cb4d0a64e7f9f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Part A Policy \& Practice}
+      \field{number}{7}
+      \field{title}{Importance and exposure in road network vulnerability analysis}
+      \field{userf}{en}
+      \field{volume}{40}
+      \field{year}{2006}
+      \field{pages}{537\bibrangedash 560}
+      \range{pages}{24}
+    \endentry
+    \entry{Karlaftis2002Effects}{article}{}
+      \name{author}{2}{}{%
+        {{hash=06ed5edd05fe8afc90acda4f395bf779}{%
+           family={Karlaftis},
+           family_i={K\bibinitperiod},
+           given={Matthew\bibnamedelima G},
+           given_i={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3cd44c3fe3f14ee8352055b2499f9c47}{%
+           family={Golias},
+           family_i={G\bibinitperiod},
+           given={Ioannis},
+           given_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d3182ace1ab8aa702dadff5f7c8558d}
+      \strng{fullhash}{1d3182ace1ab8aa702dadff5f7c8558d}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accident Analysis \& Prevention}
+      \field{number}{3}
+      \field{title}{Effects of road geometry and traffic volumes on rural roadway accident rates}
+      \field{userf}{en}
+      \field{volume}{34}
+      \field{year}{2002}
+      \field{pages}{357\bibrangedash 365}
+      \range{pages}{9}
+    \endentry
+    \entry{Kerner2015The}{article}{}
+      \name{author}{5}{}{%
+        {{hash=942f8600a4c14b1a629c90b8de6c47b1}{%
+           family={Kerner},
+           family_i={K\bibinitperiod},
+           given={Boris\bibnamedelima S.},
+           given_i={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=59fbe19a9afb5815999f3527f55e186c}{%
+           family={Koller},
+           family_i={K\bibinitperiod},
+           given={Micha},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ea5d43d87e5ef9083fad18b19266e995}{%
+           family={Klenov},
+           family_i={K\bibinitperiod},
+           given={Sergey\bibnamedelima L.},
+           given_i={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a24049a0db7db3ff2955678afc8d4033}{%
+           family={Rehborn},
+           family_i={R\bibinitperiod},
+           given={Hubert},
+           given_i={H\bibinitperiod}}}%
+        {{hash=2fbe2772dea9d2bbea3128bfdaaaadf8}{%
+           family={Leibel},
+           family_i={L\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{be2516e98066837d4de3d7fad511e435}
+      \strng{fullhash}{361809ea97ba1c7dabe39591b90e5663}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
+      \field{title}{The physics of empirical nuclei for spontaneous traffic breakdown in free flow at highway bottlenecks}
+      \field{userf}{en}
+      \field{volume}{438}
+      \field{year}{2015}
+      \field{pages}{365\bibrangedash 397}
+      \range{pages}{33}
+    \endentry
     \entry{YipTongji}{article}{}
       \name{author}{6}{}{%
         {{hash=bbbc1b9c3be794f7a6dce08afed57279}{%
@@ -123,48 +226,6 @@
       \field{pages}{26\bibrangedash 31}
       \range{pages}{6}
     \endentry
-    \entry{Kerner2015The}{article}{}
-      \name{author}{5}{}{%
-        {{hash=942f8600a4c14b1a629c90b8de6c47b1}{%
-           family={Kerner},
-           family_i={K\bibinitperiod},
-           given={Boris\bibnamedelima S.},
-           given_i={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=59fbe19a9afb5815999f3527f55e186c}{%
-           family={Koller},
-           family_i={K\bibinitperiod},
-           given={Micha},
-           given_i={M\bibinitperiod}}}%
-        {{hash=ea5d43d87e5ef9083fad18b19266e995}{%
-           family={Klenov},
-           family_i={K\bibinitperiod},
-           given={Sergey\bibnamedelima L.},
-           given_i={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=a24049a0db7db3ff2955678afc8d4033}{%
-           family={Rehborn},
-           family_i={R\bibinitperiod},
-           given={Hubert},
-           given_i={H\bibinitperiod}}}%
-        {{hash=2fbe2772dea9d2bbea3128bfdaaaadf8}{%
-           family={Leibel},
-           family_i={L\bibinitperiod},
-           given={Michael},
-           given_i={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{be2516e98066837d4de3d7fad511e435}
-      \strng{fullhash}{361809ea97ba1c7dabe39591b90e5663}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
-      \field{title}{The physics of empirical nuclei for spontaneous traffic breakdown in free flow at highway bottlenecks}
-      \field{userf}{en}
-      \field{volume}{438}
-      \field{year}{2015}
-      \field{pages}{365\bibrangedash 397}
-      \range{pages}{33}
-    \endentry
     \entry{Yacine2017Landslide}{article}{}
       \name{author}{6}{}{%
         {{hash=20b96393f106df709dd52a27339ef8a8}{%
@@ -208,6 +269,44 @@
       \field{userf}{en}
       \field{volume}{10}
       \field{year}{2017}
+    \endentry
+    \entry{Niu2015Evaluation}{article}{}
+      \name{author}{5}{}{%
+        {{hash=26ab60f0e0bae492b01a04c6bf769ca9}{%
+           family={Niu},
+           family_i={N\bibinitperiod},
+           given={Shuyun},
+           given_i={S\bibinitperiod}}}%
+        {{hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Bin},
+           given_i={B\bibinitperiod}}}%
+        {{hash=623401220f31a3393e20a4c37b87809e}{%
+           family={Niu},
+           family_i={N\bibinitperiod},
+           given={Wujun},
+           given_i={W\bibinitperiod}}}%
+        {{hash=01b8fc03f46d70d7ba704a89eb4949fa}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Jisheng},
+           given_i={J\bibinitperiod}}}%
+        {{hash=f3aa2ef6b40963a7984252d611187cf4}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Wenfeng},
+           given_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9378ab3c10bbc0c9c5dd814d381c5dc6}
+      \strng{fullhash}{0ddebe0c2ed5e940b9d69f218f35c201}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluation of Highway Network Node Importance via Node Benefit Function and Weighted Node Betweenness}
+      \field{userf}{en}
+      \field{year}{2015}
     \endentry
     \entry{Song2011Node}{article}{}
       \name{author}{4}{}{%
@@ -315,986 +414,65 @@
       \field{pages}{264\bibrangedash 269}
       \range{pages}{6}
     \endentry
-    \entry{Phillip1972Factoring}{article}{}
-      \name{author}{1}{}{%
-        {{hash=12121ca52ec8a4201d394b3b282a1502}{%
-           family={Bonacich},
-           family_i={B\bibinitperiod},
-           given={Phillip},
-           given_i={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{12121ca52ec8a4201d394b3b282a1502}
-      \strng{fullhash}{12121ca52ec8a4201d394b3b282a1502}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Journal of Mathematical Sociology}
-      \field{number}{1}
-      \field{title}{Factoring and weighting approaches to status scores and clique identification}
-      \field{userf}{en}
-      \field{volume}{2}
-      \field{year}{1972}
-      \field{pages}{113\bibrangedash 120}
-      \range{pages}{8}
-    \endentry
-    \entry{Chen2012Identifying}{article}{}
-      \name{author}{5}{}{%
-        {{hash=7c4978e17747b1731c34765b56d2c53f}{%
-           family={Chen},
-           family_i={C\bibinitperiod},
-           given={Duanbing},
-           given_i={D\bibinitperiod}}}%
-        {{hash=767fb4e8e5a99206987af76c3ee394d1}{%
-           family={Lü},
-           family_i={L\bibinitperiod},
-           given={Linyuan},
-           given_i={L\bibinitperiod}}}%
-        {{hash=5e86f61d06b9731156190ba22179cfab}{%
-           family={Shang},
-           family_i={S\bibinitperiod},
-           given={Ming\bibnamedelima Sheng},
-           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=f834d68c1d786b6732bc4975b69d7307}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Yi\bibnamedelima Cheng},
-           given_i={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{b6b492636165ecffb1c15827e1a0f03f}
-      \strng{fullhash}{1deaad2481a6e5d7f50f68930d006971}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
-      \field{number}{4}
-      \field{title}{Identifying influential nodes in complex networks}
-      \field{userf}{en}
-      \field{volume}{391}
-      \field{year}{2012}
-      \field{pages}{1777\bibrangedash 1787}
-      \range{pages}{11}
-    \endentry
-    \entry{Kitsak2010Identification}{article}{}
-      \name{author}{7}{}{%
-        {{hash=02b08e4717a8be7591bc40923109c281}{%
-           family={Kitsak},
-           family_i={K\bibinitperiod},
-           given={Maksim},
-           given_i={M\bibinitperiod}}}%
-        {{hash=97fa9805e71c5c7354c7ca752b7ed1bd}{%
-           family={Gallos},
+    \entry{Peeta2010Pre}{article}{}
+      \name{author}{4}{}{%
+        {{hash=329f0a10faa54816c851e692eb6a835d}{%
+           family={Peeta},
+           family_i={P\bibinitperiod},
+           given={Srinivas},
+           given_i={S\bibinitperiod}}}%
+        {{hash=1d461ddec05a4546446a818f097f1753}{%
+           family={Sibel\bibnamedelima Salman},
+           family_i={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={F},
+           given_i={F\bibinitperiod}}}%
+        {{hash=2dd25309a8645431e7af46f9d783b507}{%
+           family={Gunnec},
            family_i={G\bibinitperiod},
-           given={Lazaros\bibnamedelima K.},
-           given_i={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=742d135a5dd9af879149ba57bf45774c}{%
-           family={Havlin},
-           family_i={H\bibinitperiod},
-           given={Shlomo},
-           given_i={S\bibinitperiod}}}%
-        {{hash=af8bbbcab4a27b8874daa2eb9353bd67}{%
-           family={Liljeros},
-           family_i={L\bibinitperiod},
-           given={Fredrik},
-           given_i={F\bibinitperiod}}}%
-        {{hash=77e27c6d5f387d00c215866de7c66687}{%
-           family={Muchnik},
-           family_i={M\bibinitperiod},
-           given={Lev},
-           given_i={L\bibinitperiod}}}%
-        {{hash=5714ec16b6f6413538f150b4646c2579}{%
-           family={Stanley},
-           family_i={S\bibinitperiod},
-           given={H.\bibnamedelimi Eugene},
-           given_i={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=9db07d7f23b3da1b9eef2a31255a38e9}{%
-           family={Makse},
-           family_i={M\bibinitperiod},
-           given={Hernán\bibnamedelima A.},
-           given_i={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{557d67e65d3c9e2d11aba13569cb9083}
-      \strng{fullhash}{13861bef12da6076cd70dfe88b44e6b4}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Physics}
-      \field{number}{11}
-      \field{title}{Identification of influential spreaders in complex networks}
-      \field{userf}{en}
-      \field{volume}{6}
-      \field{year}{2010}
-      \field{pages}{888\bibrangedash 893}
-      \range{pages}{6}
-    \endentry
-    \entry{Zeng2012Ranking}{article}{}
-      \name{author}{2}{}{%
-        {{hash=9239870e5ecfd48b40a2633d78f9e123}{%
-           family={Zeng},
-           family_i={Z\bibinitperiod},
-           given={An},
-           given_i={A\bibinitperiod}}}%
-        {{hash=15c40e2c9713d74bff5b13edf0f899c4}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Cheng\bibnamedelima Jun},
-           given_i={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{e0ee05ffae1376c34053e5324dd8dab6}
-      \strng{fullhash}{e0ee05ffae1376c34053e5324dd8dab6}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physics Letters A}
-      \field{number}{14}
-      \field{title}{Ranking spreaders by decomposing complex networks}
-      \field{userf}{en}
-      \field{volume}{377}
-      \field{year}{2012}
-      \field{pages}{1031\bibrangedash 1035}
-      \range{pages}{5}
-    \endentry
-    \entry{Dolev2010Routing}{article}{}
-      \name{author}{3}{}{%
-        {{hash=9a052cc70893e8f22e3815f8cbad4682}{%
-           family={Dolev},
-           family_i={D\bibinitperiod},
-           given={Shlomi},
-           given_i={S\bibinitperiod}}}%
-        {{hash=48129f0a13603c1456c886b59a8498d3}{%
-           family={Elovici},
-           family_i={E\bibinitperiod},
-           given={Yuval},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=36efe7eedfc4626813fb98eeb4fbc7ef}{%
-           family={Puzis},
-           family_i={P\bibinitperiod},
-           given={Rami},
-           given_i={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{aaa7a31918bfa98fd4b3959bd30ed448}
-      \strng{fullhash}{aaa7a31918bfa98fd4b3959bd30ed448}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Acm}
-      \field{number}{4}
-      \field{title}{Routing betweenness centrality}
-      \field{userf}{en}
-      \field{volume}{57}
-      \field{year}{2010}
-      \field{pages}{1\bibrangedash 27}
-      \range{pages}{27}
-    \endentry
-    \entry{Cheng2010Bridgeness}{article}{}
-      \name{author}{5}{}{%
-        {{hash=e3e4971c90d81948a6631f87b130188d}{%
-           family={Cheng},
-           family_i={C\bibinitperiod},
-           given={Xue\bibnamedelima Qi},
-           given_i={X\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
-        {{hash=48a72247efabfab71ea9669f2b697164}{%
-           family={Ren},
-           family_i={R\bibinitperiod},
-           given={Fu\bibnamedelima Xin},
-           given_i={F\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
-        {{hash=db99521971bbaf97453108cbe3c5ca1a}{%
-           family={Shen},
-           family_i={S\bibinitperiod},
-           given={Hua\bibnamedelima Wei},
-           given_i={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=858a325af3a420c85a59a27315916274}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Zi\bibnamedelima Ke},
-           given_i={Z\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{f57ae54e64629e38d53e0b6d257af125}
-      \strng{fullhash}{5dd90a721fb92a1629c444c1b5a208ac}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{number}{10}
-      \field{title}{Bridgeness: A Local Index on Edge Significance in Maintaining Global Connectivity}
-      \field{userf}{en}
-      \field{volume}{10}
-      \field{year}{2010}
-      \field{pages}{595\bibrangedash 685}
-      \range{pages}{91}
-    \endentry
-    \entry{Hage1995Eccentricity}{article}{}
-      \name{author}{2}{}{%
-        {{hash=e11e0d62a5bc6952a3dd384688b3905c}{%
-           family={Hage},
-           family_i={H\bibinitperiod},
-           given={Per},
-           given_i={P\bibinitperiod}}}%
-        {{hash=e3160b3da4830dc2704b52726168a61f}{%
-           family={Harary},
-           family_i={H\bibinitperiod},
-           given={Frank},
-           given_i={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{312022eab5d838c908063bb7760a99c4}
-      \strng{fullhash}{312022eab5d838c908063bb7760a99c4}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Social Networks}
-      \field{number}{1}
-      \field{title}{Eccentricity and centrality in networks}
-      \field{userf}{en}
-      \field{volume}{17}
-      \field{year}{1995}
-      \field{pages}{57\bibrangedash 63}
-      \range{pages}{7}
-    \endentry
-    \entry{Miro1997The}{article}{}
-      \name{author}{1}{}{%
-        {{hash=3ba46ec1ad3da7217fd317b381637584}{%
-           family={Pu?nik},
-           family_i={P\bibinitperiod},
-           given={Miro},
-           given_i={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{3ba46ec1ad3da7217fd317b381637584}
-      \strng{fullhash}{3ba46ec1ad3da7217fd317b381637584}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Knji?nica:revija Za Podro?je Bibliotekarstva in Informacijske Znanosti}
-      \field{number}{2}
-      \field{title}{The diameter of the world wide web}
-      \field{userf}{en}
-      \field{volume}{32}
-      \field{year}{1997}
-      \field{pages}{155\bibrangedash 159}
-      \range{pages}{5}
-    \endentry
-    \entry{Latora2001Efficient}{article}{}
-      \name{author}{2}{}{%
-        {{hash=078821b95c399c4ffd8297cb26a8beb5}{%
-           family={Latora},
-           family_i={L\bibinitperiod},
-           given={Vito},
-           given_i={V\bibinitperiod}}}%
-        {{hash=4803d059c0279302131fc57239b6f779}{%
-           family={Marchiori},
-           family_i={M\bibinitperiod},
-           given={Massimo},
-           given_i={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{d160368d09064fe7d73f6d36c6f0e5e4}
-      \strng{fullhash}{d160368d09064fe7d73f6d36c6f0e5e4}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review Letters}
-      \field{number}{19}
-      \field{title}{Efficient Behavior of Small-World Networks}
-      \field{userf}{en}
-      \field{volume}{87}
-      \field{year}{2001}
-      \field{pages}{198701}
-      \range{pages}{1}
-    \endentry
-    \entry{Katz1953A}{article}{}
-      \name{author}{1}{}{%
-        {{hash=3f646ed5f84578b4ce2090f0d57e4763}{%
-           family={Katz},
-           family_i={K\bibinitperiod},
-           given={Leo},
-           given_i={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{3f646ed5f84578b4ce2090f0d57e4763}
-      \strng{fullhash}{3f646ed5f84578b4ce2090f0d57e4763}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Psychometrika}
-      \field{number}{1}
-      \field{title}{A new status index derived from sociometric analysis}
-      \field{userf}{en}
-      \field{volume}{18}
-      \field{year}{1953}
-      \field{pages}{39\bibrangedash 43}
-      \range{pages}{5}
-    \endentry
-    \entry{L2011Link}{article}{}
-      \name{author}{2}{}{%
-        {{hash=767fb4e8e5a99206987af76c3ee394d1}{%
-           family={Lü},
-           family_i={L\bibinitperiod},
-           given={Linyuan},
-           given_i={L\bibinitperiod}}}%
-        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{6049ef6b58d595af1c132fd3b0734e36}
-      \strng{fullhash}{6049ef6b58d595af1c132fd3b0734e36}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
-      \field{number}{6}
-      \field{title}{Link prediction in complex networks: A survey}
-      \field{userf}{en}
-      \field{volume}{390}
-      \field{year}{2011}
-      \field{pages}{1150\bibrangedash 1170}
-      \range{pages}{21}
-    \endentry
-    \entry{Stephenson1989Rethinking}{article}{}
-      \name{author}{2}{}{%
-        {{hash=fa4587de7551bcac1cad9025fab62ddf}{%
-           family={Stephenson},
-           family_i={S\bibinitperiod},
-           given={Karen},
+           given={Dilek},
+           given_i={D\bibinitperiod}}}%
+        {{hash=79251ac094aed38030fc275755543375}{%
+           family={Viswanath},
+           family_i={V\bibinitperiod},
+           given={Kannan},
            given_i={K\bibinitperiod}}}%
-        {{hash=50c0811da96b21393dadf8860f27bbe2}{%
-           family={Zelen},
-           family_i={Z\bibinitperiod},
-           given={Marvin},
-           given_i={M\bibinitperiod}}}%
       }
-      \strng{namehash}{4b63d8e70b87f62246673dc2dfcfbd97}
-      \strng{fullhash}{4b63d8e70b87f62246673dc2dfcfbd97}
+      \strng{namehash}{997458ff48e35de8116f624720f2f6a5}
+      \strng{fullhash}{12cb0915ad8b4be994ebd53b367d645c}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Social Networks}
-      \field{number}{1}
-      \field{title}{Rethinking centrality: Methods and examples ☆}
-      \field{userf}{en}
-      \field{volume}{11}
-      \field{year}{1989}
-      \field{pages}{1\bibrangedash 37}
-      \range{pages}{37}
-    \endentry
-    \entry{Altmann1993Reinterpreting}{article}{}
-      \name{author}{1}{}{%
-        {{hash=cb40bd5e860e15972033a1ab1578d055}{%
-           family={Altmann},
-           family_i={A\bibinitperiod},
-           given={Michael},
-           given_i={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{cb40bd5e860e15972033a1ab1578d055}
-      \strng{fullhash}{cb40bd5e860e15972033a1ab1578d055}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Social Networks}
-      \field{number}{1}
-      \field{title}{Reinterpreting network measures for models of disease transmission ☆}
-      \field{userf}{en}
-      \field{volume}{15}
-      \field{year}{1993}
-      \field{pages}{1\bibrangedash 17}
-      \range{pages}{17}
-    \endentry
-    \entry{Poulin2000Dynamical}{article}{}
-      \name{author}{3}{}{%
-        {{hash=8fe7aaa4d1562b4703fa97813eddc4f7}{%
-           family={Poulin},
-           family_i={P\bibinitperiod},
-           given={R.},
-           given_i={R\bibinitperiod}}}%
-        {{hash=a73d8a0283e59d5108bf930187da1ee4}{%
-           family={Boily},
-           family_i={B\bibinitperiod},
-           given={M.\bibnamedelimi C},
-           given_i={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=27ebff01ea297b0b5b2185a79e37a6cc}{%
-           family={Mâsse},
-           family_i={M\bibinitperiod},
-           given={B.\bibnamedelimi R},
-           given_i={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{fac52d6f033e4ff7a6037c0455ddff7c}
-      \strng{fullhash}{fac52d6f033e4ff7a6037c0455ddff7c}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Social Networks}
-      \field{number}{3}
-      \field{title}{Dynamical systems to define centrality in social networks}
-      \field{userf}{en}
-      \field{volume}{22}
-      \field{year}{2000}
-      \field{pages}{187\bibrangedash 220}
-      \range{pages}{34}
-    \endentry
-    \entry{Goh2001Universal}{article}{}
-      \name{author}{3}{}{%
-        {{hash=e4053c136085b2fb3f0f61381d9d7068}{%
-           family={Goh},
-           family_i={G\bibinitperiod},
-           given={K.\bibnamedelimi I.},
-           given_i={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=10d296a297c67c56d2e917d5f5c522be}{%
-           family={Kahng},
-           family_i={K\bibinitperiod},
-           given={B},
-           given_i={B\bibinitperiod}}}%
-        {{hash=a3ee7bee5a5ecb7a55a51ecdd4e78cef}{%
-           family={Kim},
-           family_i={K\bibinitperiod},
-           given={D},
-           given_i={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{e2ee7ed492c2c8874664606d66763282}
-      \strng{fullhash}{e2ee7ed492c2c8874664606d66763282}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review Letters}
-      \field{number}{27 Pt 1}
-      \field{title}{Universal behavior of load distribution in scale-free networks}
-      \field{userf}{en}
-      \field{volume}{87}
-      \field{year}{2001}
-      \field{pages}{278701}
-      \range{pages}{1}
-    \endentry
-    \entry{Ulrik2001A}{article}{}
-      \name{author}{1}{}{%
-        {{hash=392b457d9bac1ed69366176e7857d7e9}{%
-           family={Brandes},
-           family_i={B\bibinitperiod},
-           given={Ulrik},
-           given_i={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{392b457d9bac1ed69366176e7857d7e9}
-      \strng{fullhash}{392b457d9bac1ed69366176e7857d7e9}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The Journal of Mathematical Sociology}
-      \field{number}{2}
-      \field{title}{A Faster Algorithm for Betweenness Centrality}
-      \field{userf}{en}
-      \field{volume}{25}
-      \field{year}{2001}
-      \field{pages}{163\bibrangedash 177}
-      \range{pages}{15}
-    \endentry
-    \entry{zt2006Notes}{article}{}
-      \name{author}{3}{}{%
-        {{hash=6f3a855b2409cbb35aeb80842a139a61}{%
-           family={周涛},
-           family_i={周\bibinitperiod}}}%
-        {{hash=f0f902966db54bf38aa5056658289290}{%
-           family={刘建国},
-           family_i={刘\bibinitperiod}}}%
-        {{hash=68d80d4432571feb53ec3020c6c28799}{%
-           family={汪秉宏},
-           family_i={汪\bibinitperiod}}}%
-      }
-      \strng{namehash}{b899352216d998afbbceced262bf5e74}
-      \strng{fullhash}{b899352216d998afbbceced262bf5e74}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Chinese Physics Letters}
-      \field{number}{8}
-      \field{title}{Notes on the Algorithm for Calculating Betweenness}
-      \field{userf}{en}
-      \field{volume}{23}
-      \field{year}{2006}
-      \field{pages}{2327}
-      \range{pages}{1}
-    \endentry
-    \entry{Yan2006Efficient}{article}{}
-      \name{author}{5}{}{%
-        {{hash=7982fc255196ad21d6203c393073e1c2}{%
-           family={Yan},
-           family_i={Y\bibinitperiod},
-           given={G.},
-           given_i={G\bibinitperiod}}}%
-        {{hash=2f23df774ffb0abda1c83a35d585a42b}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={T.},
-           given_i={T\bibinitperiod}}}%
-        {{hash=00bfcf71fb6be347d1c01e953d5e36e3}{%
-           family={Hu},
-           family_i={H\bibinitperiod},
-           given={B.},
-           given_i={B\bibinitperiod}}}%
-        {{hash=640fd8f0388068fbc811b23faac5f3bf}{%
-           family={Fu},
-           family_i={F\bibinitperiod},
-           given={Z.\bibnamedelimi Q.},
-           given_i={Z\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
-        {{hash=7d0f7d34842c3fefea83d8ea5a43c549}{%
-           family={Wang},
-           family_i={W\bibinitperiod},
-           given={B.\bibnamedelimi H.},
-           given_i={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{7984f3f16769250fbd79c7b8ae642750}
-      \strng{fullhash}{9db977774d8adea8f4acd95c5fce06b0}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
-      \field{number}{2}
-      \field{title}{Efficient routing on complex networks}
-      \field{userf}{en}
-      \field{volume}{73}
-      \field{year}{2006}
-      \field{pages}{046108}
-      \range{pages}{1}
-    \endentry
-    \entry{Estrada2005Subgraph}{article}{}
-      \name{author}{2}{}{%
-        {{hash=b0089bb6c59bb763e75ea793ef47883f}{%
-           family={Estrada},
-           family_i={E\bibinitperiod},
-           given={E},
-           given_i={E\bibinitperiod}}}%
-        {{hash=a2cb618f5c67bc1240349f5b46625076}{%
-           family={Rodríguezvelázquez},
-           family_i={R\bibinitperiod},
-           given={J.\bibnamedelimi A.},
-           given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{07b48d030ec673fec0465ec7ea1514eb}
-      \strng{fullhash}{07b48d030ec673fec0465ec7ea1514eb}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
-      \field{number}{5 Pt 2}
-      \field{title}{Subgraph centrality in complex networks.}
-      \field{userf}{en}
-      \field{volume}{71}
-      \field{year}{2005}
-      \field{pages}{056103}
-      \range{pages}{1}
-    \endentry
-    \entry{Bonacich2001Eigenvector}{article}{}
-      \name{author}{2}{}{%
-        {{hash=12121ca52ec8a4201d394b3b282a1502}{%
-           family={Bonacich},
-           family_i={B\bibinitperiod},
-           given={Phillip},
-           given_i={P\bibinitperiod}}}%
-        {{hash=f325856347c1fc20abf44e1eaa3d9c58}{%
-           family={Lloyd},
-           family_i={L\bibinitperiod},
-           given={Paulette},
-           given_i={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{8c94136356a6a1633a1189cba0ec4f96}
-      \strng{fullhash}{8c94136356a6a1633a1189cba0ec4f96}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Social Networks}
-      \field{number}{3}
-      \field{title}{Eigenvector-like measures of centrality for asymmetric relations}
-      \field{userf}{en}
-      \field{volume}{23}
-      \field{year}{2001}
-      \field{pages}{191\bibrangedash 201}
-      \range{pages}{11}
-    \endentry
-    \entry{Martin2015Localization}{article}{}
-      \name{author}{3}{}{%
-        {{hash=3ab4723487eb917b2e440151ca2390d9}{%
-           family={Martin},
-           family_i={M\bibinitperiod},
-           given={T},
-           given_i={T\bibinitperiod}}}%
-        {{hash=574e95d114a9926a694bb0df46c80726}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={X.},
-           given_i={X\bibinitperiod}}}%
-        {{hash=2e5bdd799625868968171ab04024aab0}{%
-           family={Newman},
-           family_i={N\bibinitperiod},
-           given={M.\bibnamedelimi E.},
-           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{d608809d6b51ec36d99916b773f4e77b}
-      \strng{fullhash}{d608809d6b51ec36d99916b773f4e77b}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review E}
-      \field{number}{5-1}
-      \field{title}{Localization and centrality in networks.}
-      \field{userf}{en}
-      \field{volume}{90}
-      \field{year}{2015}
-      \field{pages}{052808\bibrangedash 052808}
-      \range{pages}{1}
-    \endentry
-    \entry{Wei2013Identifying}{article}{}
-      \name{author}{5}{}{%
-        {{hash=bf0b95842bc019735712b7f207295ec1}{%
-           family={Wei},
-           family_i={W\bibinitperiod},
-           given={Daijun},
-           given_i={D\bibinitperiod}}}%
-        {{hash=753115e18c12a05e4125f23b88cbd8aa}{%
-           family={Deng},
-           family_i={D\bibinitperiod},
-           given={Xinyang},
-           given_i={X\bibinitperiod}}}%
-        {{hash=3bcfbd935493140de59f26f618828468}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Xiaoge},
-           given_i={X\bibinitperiod}}}%
-        {{hash=c40603e7956e020566ebeebf61741516}{%
-           family={Deng},
-           family_i={D\bibinitperiod},
-           given={Yong},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=b355b4e41b9afd30080a3e932da41301}{%
-           family={Mahadevan},
-           family_i={M\bibinitperiod},
-           given={Sankaran},
-           given_i={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{d3f577ef822204a271d1e60e3330bb65}
-      \strng{fullhash}{2482c06c09fb1df34e2455eb5fc7ac71}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
       \field{number}{10}
-      \field{title}{Identifying influential nodes in weighted networks based on evidence theory}
+      \field{title}{Pre-disaster investment decisions for strengthening a highway network}
       \field{userf}{en}
-      \field{volume}{392}
-      \field{year}{2013}
-      \field{pages}{2564\bibrangedash 2575}
+      \field{volume}{37}
+      \field{year}{2010}
+      \field{pages}{1708\bibrangedash 1719}
       \range{pages}{12}
     \endentry
-    \entry{Kim2002An}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=e2c2123bfd545ae5092898fdf995193f}{%
-           family={Kim},
-           family_i={K\bibinitperiod},
-           given={Sung\bibnamedelima Jin},
-           given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=776ec253872077b390a9296f6ae41fa0}{%
-           family={Sang},
-           family_i={S\bibinitperiod},
-           given={Ho\bibnamedelima Lee},
-           given_i={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{91a8fb65b4008a1f64705899c58d65b0}
-      \strng{fullhash}{91a8fb65b4008a1f64705899c58d65b0}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 24th BCS-IRSG European Colloquium on IR Research: Advances in Information Retrieval}
-      \field{title}{An Improved Computation of the PageRank Algorithm}
-      \field{userf}{en}
-      \field{year}{2002}
-      \field{pages}{73\bibrangedash 85}
-      \range{pages}{13}
-    \endentry
-    \entry{Zhang2007N}{article}{}
-      \name{author}{5}{}{%
-        {{hash=32a08717e0d6dcde59bc98b96800ed6c}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Li},
-           given_i={L\bibinitperiod}}}%
-        {{hash=5588f729660dbe4dbf5af3850f858ae3}{%
-           family={Qin},
-           family_i={Q\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
-        {{hash=d0aecc0728b329e67b52267dcd8cf978}{%
-           family={Liu},
-           family_i={L\bibinitperiod},
-           given={Tie\bibnamedelima Yan},
-           given_i={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-        {{hash=777a18431ba3377045077a60a7c26a70}{%
-           family={Bao},
-           family_i={B\bibinitperiod},
-           given={Ying},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=1161a5311adb3130e6d43df93c8b498f}{%
-           family={Li},
-           family_i={L\bibinitperiod},
-           given={Hang},
-           given_i={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{9608e385dbce7209b636b9e8e14946da}
-      \strng{fullhash}{6a7afd34bfc8f07657304d1d293a25df}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{number}{4}
-      \field{title}{N-Step PageRank for Web Search}
-      \field{userf}{en}
-      \field{volume}{1}
-      \field{year}{2007}
-      \field{pages}{1}
-      \range{pages}{1}
-    \endentry
-    \entry{Sergey1998The}{article}{}
-      \name{author}{2}{}{%
-        {{hash=0e8da67b94da56bfa9b24794362a9e0d}{%
-           family={Sergey},
-           family_i={S\bibinitperiod},
-           given={B.},
-           given_i={B\bibinitperiod}}}%
-        {{hash=f76c3ad17f47636760adf25de3866529}{%
-           family={Lawrence},
-           family_i={L\bibinitperiod},
-           given={P.},
-           given_i={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{5e7532b497e1a7952023ec6b2a43c5e0}
-      \strng{fullhash}{5e7532b497e1a7952023ec6b2a43c5e0}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Computer Networks}
-      \field{number}{18}
-      \field{title}{The anatomy of a large-scale hypertextual Web search engine}
-      \field{userf}{en}
-      \field{volume}{56}
-      \field{year}{1998}
-      \field{pages}{3825\bibrangedash 3833}
-      \range{pages}{9}
-    \endentry
-    \entry{Jacso2012Grim}{article}{}
+    \entry{Kleinberg1999Authoritative}{article}{}
       \name{author}{1}{}{%
-        {{hash=48337d9f64e6dd206ecc805448cab2aa}{%
-           family={Jacso},
-           family_i={J\bibinitperiod},
-           given={Peter},
-           given_i={P\bibinitperiod}}}%
+        {{hash=f112b97e31827df683319c6804eb25a9}{%
+           family={Kleinberg},
+           family_i={K\bibinitperiod},
+           given={Jon\bibnamedelima M},
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
-      \strng{namehash}{48337d9f64e6dd206ecc805448cab2aa}
-      \strng{fullhash}{48337d9f64e6dd206ecc805448cab2aa}
+      \strng{namehash}{f112b97e31827df683319c6804eb25a9}
+      \strng{fullhash}{f112b97e31827df683319c6804eb25a9}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Scientometrics}
-      \field{number}{2}
-      \field{title}{Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism}
+      \field{journaltitle}{Journal of the ACM (JACM)}
+      \field{number}{5}
+      \field{title}{Authoritative Sources in a Hyperlinked Environment}
       \field{userf}{en}
-      \field{volume}{92}
-      \field{year}{2012}
-      \field{pages}{325\bibrangedash 354}
-      \range{pages}{30}
-    \endentry
-    \entry{Weng2010TwitterRank}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=07b89ca5e01d8991c29513b66fef1167}{%
-           family={Weng},
-           family_i={W\bibinitperiod},
-           given={Jianshu},
-           given_i={J\bibinitperiod}}}%
-        {{hash=fa02e0f605894d16e30ab74caa40a71e}{%
-           family={Lim},
-           family_i={L\bibinitperiod},
-           given={Ee\bibnamedelima Peng},
-           given_i={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=78f8ffda028131a2ad3f19fb3e42cdb7}{%
-           family={Jiang},
-           family_i={J\bibinitperiod},
-           given={Jing},
-           given_i={J\bibinitperiod}}}%
-        {{hash=954a8b117e47bd74e7e7fc588d404cc1}{%
-           family={He},
-           family_i={H\bibinitperiod},
-           given={Qi},
-           given_i={Q\bibinitperiod}}}%
-      }
-      \strng{namehash}{6e79cc55a0590faff609a4a071cac466}
-      \strng{fullhash}{7449d09dadbf45ff688549a936e1c808}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{International Conference on Web Search and Web Data Mining, WSDM 2010, New York, Ny, Usa, February}
-      \field{title}{TwitterRank: finding topic-sensitive influential twitterers}
-      \field{userf}{en}
-      \field{year}{2010}
-      \field{pages}{261\bibrangedash 270}
-      \range{pages}{10}
-    \endentry
-    \entry{Bhat2012InvestorRank}{article}{}
-      \name{author}{2}{}{%
-        {{hash=1fbb2e89883223cb5531b47fb15e7fcd}{%
-           family={Bhat},
-           family_i={B\bibinitperiod},
-           given={Harish\bibnamedelima S},
-           given_i={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=209ddd7059da20a8cc7a6509790573e2}{%
-           family={Sims},
-           family_i={S\bibinitperiod},
-           given={Bryan},
-           given_i={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{7857fdb46e87943b1eedb287661fe757}
-      \strng{fullhash}{7857fdb46e87943b1eedb287661fe757}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Electronic Theses \& Dissertations}
-      \field{title}{InvestorRank and an Inverse Problem for PageRank}
-      \field{userf}{en}
-      \field{year}{2012}
-    \endentry
-    \entry{Petersen2010Methods}{article}{}
-      \name{author}{3}{}{%
-        {{hash=878ae999db11f8f7e368c8671d1ba2a4}{%
-           family={Petersen},
-           family_i={P\bibinitperiod},
-           given={A.\bibnamedelimi M.},
-           given_i={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=b118eab732cf40a3bf5aa11acb1fdcb3}{%
-           family={Wang},
-           family_i={W\bibinitperiod},
-           given={F.},
-           given_i={F\bibinitperiod}}}%
-        {{hash=8633cc6cfade827487ffa6bf7a9a83e1}{%
-           family={Stanley},
-           family_i={S\bibinitperiod},
-           given={H.\bibnamedelimi E.},
-           given_i={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{be00de17229dac8e2fbdd695c8b71b80}
-      \strng{fullhash}{be00de17229dac8e2fbdd695c8b71b80}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Publication statistics are ubiquitous in the ratings of scientific achievement, with citation counts and paper tallies factoring into an individual’s consideration for postdoctoral positions, junior faculty, and tenure. Citation statistics are designed to quantify individual career achievement, both at the level of a single publication, and over an individual’s entire career. While some academic careers are defined by a few significant papers (possibly out of many), other academic careers are defined by the cumulative contribution made by the author’s publications to the body of science. Several metrics have been formulated to quantify an individual’s publication career, yet none of these metrics account for the collaboration group size, and the time dependence of citation counts. In this paper we normalize publication metrics in order to achieve a universal framework for analyzing and comparing scientific achievement across both time and discipline. We study the publication careers of individual authors over the 50-year period 1958-2008 within six high-impact journals: CELL, the New England Journal of Medicine (NEJM), Nature, the Proceedings of the National Academy of Science (PNAS), Physical Review Letters (PRL), and Science. Using the normalized metrics (i) “citation shares” to quantify scientific success, and (ii) “paper shares” to quantify scientific productivity, we compare the career achievement of individual authors within each journal, where each journal represents a local arena for competition. We uncover quantifiable statistical regularity in the probability density function of scientific achievement in all journals analyzed, which suggests that a fundamental driving force underlying scientific achievement is the competitive nature of scientific advancement.}
-      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
-      \field{number}{2}
-      \field{title}{Methods for measuring the citations and productivity of scientists across time and discipline.}
-      \field{userf}{en}
-      \field{volume}{81}
-      \field{year}{2010}
-      \field{pages}{036114}
-      \range{pages}{1}
-      \keyw{Other topics in areas of applied and interdisciplinary physics;Careers in physics and science;Probability theory stochastic processes and statistics;Science and society}
-    \endentry
-    \entry{Ding2009PageRank}{article}{}
-      \name{author}{4}{}{%
-        {{hash=f0fc7ccc30c05c346877b314d03cb921}{%
-           family={Ding},
-           family_i={D\bibinitperiod},
-           given={Ying},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=7d6298a32ce8489b8f96090dc8622b98}{%
-           family={Yan},
-           family_i={Y\bibinitperiod},
-           given={Erjia},
-           given_i={E\bibinitperiod}}}%
-        {{hash=d41eb4af4552b7a99e0e9d4f3d0f8c76}{%
-           family={Frazho},
-           family_i={F\bibinitperiod},
-           given={Arthur},
-           given_i={A\bibinitperiod}}}%
-        {{hash=9d2fdd65d55535348eaaff3c09896b6a}{%
-           family={Caverlee},
-           family_i={C\bibinitperiod},
-           given={James},
-           given_i={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{47dbabdebf2b1ee56a4fe9431e24be4d}
-      \strng{fullhash}{5f64474111c4e4683548aa7a79813c54}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Google's PageRank has created a new synergy to information retrieval for a better ranking of Web pages. It ranks documents depending on the topology of the graphs and the weights of the nodes. PageRank has significantly advanced the field of information retrieval and keeps Google ahead of competitors in the search engine market. It has been deployed in bibliometrics to evaluate research impact, yet few of these studies focus on the important impact of the damping factor (d) for ranking purposes. This paper studies how varied damping factors in the PageRank algorithm can provide additional insight into the ranking of authors in an author co-citation network. Furthermore, we propose weighted PageRank algorithms. We select 108 most highly cited authors in the information retrieval (IR) area from the 1970s to 2008 to form the author co-citation network. We calculate the ranks of these 108 authors based on PageRank with damping factor ranging from 0.05 to 0.95. In order to test the relationship between these different measures, we compare PageRank and weighted PageRank results with the citation ranking, h-index, and centrality measures. We found that in our author co-citation network, citation rank is highly correlated with PageRank's with different damping factors and also with different PageRank algorithms; citation rank and PageRank are not significantly correlated with centrality measures; and h-index is not significantly correl ated with centrality measures.Ding, Ying; Yan, Erjia; Frazho, Arthur; Caverlee, James}
-      \field{journaltitle}{Journal of the Association for Information Science and Technology}
-      \field{number}{11}
-      \field{title}{PageRank for ranking authors in co-citation networks}
-      \field{userf}{en}
-      \field{volume}{60}
-      \field{year}{2009}
-      \field{pages}{2229\bibrangedash 2243}
-      \range{pages}{15}
-      \keyw{Computer Science - Digital Libraries}
-    \endentry
-    \entry{Restrepo2006Characterizing}{article}{}
-      \name{author}{3}{}{%
-        {{hash=7b6de3f9f4a091fea003df9c4af3b812}{%
-           family={Restrepo},
-           family_i={R\bibinitperiod},
-           given={Juan\bibnamedelima G.},
-           given_i={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=c6b186cdd6fc661bfb29ebbf3ba8d64b}{%
-           family={Ott},
-           family_i={O\bibinitperiod},
-           given={Edward},
-           given_i={E\bibinitperiod}}}%
-        {{hash=c2bf8d4b933b46e87492445a50838beb}{%
-           family={Hunt},
-           family_i={H\bibinitperiod},
-           given={Brian\bibnamedelima R.},
-           given_i={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{8ae6342cf69c6d24059e1c0e7ad00cc7}
-      \strng{fullhash}{8ae6342cf69c6d24059e1c0e7ad00cc7}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review Letters}
-      \field{number}{9}
-      \field{title}{Characterizing the Dynamical Importance of Network Nodes and Links}
-      \field{userf}{en}
-      \field{volume}{97}
-      \field{year}{2006}
-      \field{pages}{094102}
-      \range{pages}{1}
+      \field{volume}{46}
+      \field{year}{1999}
+      \field{pages}{604\bibrangedash 632}
+      \range{pages}{29}
     \endentry
     \entry{lpx2004wl}{article}{}
       \name{author}{3}{}{%
@@ -1350,33 +528,6 @@
       \field{pages}{129\bibrangedash 134}
       \range{pages}{6}
     \endentry
-    \entry{tyj2006fz}{article}{}
-      \name{author}{3}{}{%
-        {{hash=729c8cfa9fa110d6350666632b0e8f04}{%
-           family={谭跃进},
-           family_i={谭\bibinitperiod}}}%
-        {{hash=23767b36be6c16eb026304f5fa307e34}{%
-           family={吴俊},
-           family_i={吴\bibinitperiod}}}%
-        {{hash=d8c1d9196916ead0b27c45d46be481b8}{%
-           family={邓宏钟},
-           family_i={邓\bibinitperiod}}}%
-      }
-      \strng{namehash}{cdb3f2000684c0073f7eb8e1285995eb}
-      \strng{fullhash}{cdb3f2000684c0073f7eb8e1285995eb}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{系统工程理论与实践}
-      \field{number}{11}
-      \field{title}{复杂网络中节点重要度评估的节点收缩方法}
-      \field{userf}{en}
-      \field{volume}{26}
-      \field{year}{2006}
-      \field{pages}{79\bibrangedash 83}
-      \range{pages}{5}
-    \endentry
     \entry{Dangalchev2006Residual}{article}{}
       \name{author}{1}{}{%
         {{hash=730b80e6d52afb8de0ec377705c5b73a}{%
@@ -1399,69 +550,6 @@
       \field{year}{2006}
       \field{pages}{556\bibrangedash 564}
       \range{pages}{9}
-    \endentry
-    \entry{Ide2015Risk}{book}{}
-      \name{author}{5}{}{%
-        {{hash=9b03810717e7be6d5761531954404619}{%
-           family={Ide},
-           family_i={I\bibinitperiod},
-           given={Kiyotaka},
-           given_i={K\bibinitperiod}}}%
-        {{hash=d973330b6cc5c97947f754dfc8511516}{%
-           family={Ponnambalam},
-           family_i={P\bibinitperiod},
-           given={Loganathan},
-           given_i={L\bibinitperiod}}}%
-        {{hash=520e8af3de89743d1380f5a2f539a6b8}{%
-           family={Namatame},
-           family_i={N\bibinitperiod},
-           given={Akira},
-           given_i={A\bibinitperiod}}}%
-        {{hash=5f6852069265de8bac7ea80139df53c5}{%
-           family={Fu},
-           family_i={F\bibinitperiod},
-           given={Xiuju},
-           given_i={X\bibinitperiod}}}%
-        {{hash=c3ed47b009bbfffe425648cb3fcc3312}{%
-           family={Goh},
-           family_i={G\bibinitperiod},
-           given={Rick\bibnamedelimb Siow\bibnamedelima Mong},
-           given_i={R\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{086ed1ef3555352a085c02c1ac7db3d7}
-      \strng{fullhash}{2f5b0e25fb7cafb4e94f6984a84e73e5}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Risk Analysis and Quantification of Vulnerability in Maritime Transportation Network Using AIS Data}
-      \field{userf}{en}
-      \field{year}{2015}
-      \field{pages}{139\bibrangedash 151}
-      \range{pages}{13}
-    \endentry
-    \entry{Moreno1961The}{article}{}
-      \name{author}{1}{}{%
-        {{hash=c9d4dcd980a24e61ed0576fccd1f7690}{%
-           family={Moreno},
-           family_i={M\bibinitperiod},
-           given={J.\bibnamedelimi L.},
-           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \strng{namehash}{c9d4dcd980a24e61ed0576fccd1f7690}
-      \strng{fullhash}{c9d4dcd980a24e61ed0576fccd1f7690}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Revue Française De Sociologie}
-      \field{number}{4}
-      \field{title}{The sociometry reader.}
-      \field{userf}{en}
-      \field{volume}{2}
-      \field{year}{1961}
-      \field{pages}{331}
-      \range{pages}{1}
     \endentry
     \entry{Dereich2013Random}{article}{}
       \name{author}{2}{}{%
@@ -1648,34 +736,6 @@
       \range{pages}{10}
       \keyw{Noncommutative quantum field theory}
     \endentry
-    \entry{BrummittPNAS}{article}{}
-      \name{author}{3}{}{%
-        {{hash=826c5bde8357a25146909b5269b4fc24}{%
-           family={Brummitt},
-           family_i={B\bibinitperiod},
-           given={C.\bibnamedelimi D},
-           given_i={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=d1343b2fa5194d4ed66de3f330651f66}{%
-           family={D'Souza},
-           family_i={D\bibinitperiod},
-           given={R.\bibnamedelimi M},
-           given_i={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=96a8196111187430b80fd09546a174ce}{%
-           family={Leicht},
-           family_i={L\bibinitperiod},
-           given={E.\bibnamedelimi A},
-           given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{045eafb5490bd10b6ca62ef911e5653b}
-      \strng{fullhash}{045eafb5490bd10b6ca62ef911e5653b}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Understanding how interdependence among systems affects cascading behaviors is increasingly important across many fields of science and engineering.Inspired by cascades of load shedding in coupled electric grids and other infrastructure, we study the Bak-Tang-Wiesenfeld sandpile model on modular random graphs and on graphs based on actual, interdependent power grids. Starting from two isolated networks, adding some connectivity between them is beneficial, for it suppresses the largest cascades in each system. Too much interconnectivity, however, becomes detrimental for two reasons. First, interconnections open pathways for neighboring networks to inflict large cascades. Second, as in real infrastructure, new interconnections increase capacity and total possible load, which fuels even larger cascades. Using a multitype branching process and simulations we show these effects and estimate the optimal level of interconnectivity that balances their tradeoffs. Such equilibria could allow, for example, power grid owners to minimize the largest cascades in their grid. We also show that asymmetric capacity among interdependent networks affects the optimal connectivity that each prefers and may lead to an arms race for greater capacity. Our multitype branching process framework provides building blocks for better prediction of cascading processes on modular random graphs and on multi-type networks in general.}
-      \field{title}{PNAS Plus: Suppressing cascades of load in interdependent networks}
-      \field{userf}{en}
-    \endentry
     \entry{Peng2013Vaccination}{article}{}
       \name{author}{4}{}{%
         {{hash=17721230a01561178cde191806fb1b1b}{%
@@ -1716,6 +776,87 @@
       \range{pages}{1}
       \keyw{Humans;Virus Diseases;Vaccination;Incidence;Proportional Hazards Models;Disease Outbreaks;Computer Simulation;Models,Theoretical}
     \endentry
+    \entry{BrummittPNAS}{article}{}
+      \name{author}{3}{}{%
+        {{hash=826c5bde8357a25146909b5269b4fc24}{%
+           family={Brummitt},
+           family_i={B\bibinitperiod},
+           given={C.\bibnamedelimi D},
+           given_i={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d1343b2fa5194d4ed66de3f330651f66}{%
+           family={D'Souza},
+           family_i={D\bibinitperiod},
+           given={R.\bibnamedelimi M},
+           given_i={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=96a8196111187430b80fd09546a174ce}{%
+           family={Leicht},
+           family_i={L\bibinitperiod},
+           given={E.\bibnamedelimi A},
+           given_i={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{045eafb5490bd10b6ca62ef911e5653b}
+      \strng{fullhash}{045eafb5490bd10b6ca62ef911e5653b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understanding how interdependence among systems affects cascading behaviors is increasingly important across many fields of science and engineering.Inspired by cascades of load shedding in coupled electric grids and other infrastructure, we study the Bak-Tang-Wiesenfeld sandpile model on modular random graphs and on graphs based on actual, interdependent power grids. Starting from two isolated networks, adding some connectivity between them is beneficial, for it suppresses the largest cascades in each system. Too much interconnectivity, however, becomes detrimental for two reasons. First, interconnections open pathways for neighboring networks to inflict large cascades. Second, as in real infrastructure, new interconnections increase capacity and total possible load, which fuels even larger cascades. Using a multitype branching process and simulations we show these effects and estimate the optimal level of interconnectivity that balances their tradeoffs. Such equilibria could allow, for example, power grid owners to minimize the largest cascades in their grid. We also show that asymmetric capacity among interdependent networks affects the optimal connectivity that each prefers and may lead to an arms race for greater capacity. Our multitype branching process framework provides building blocks for better prediction of cascading processes on modular random graphs and on multi-type networks in general.}
+      \field{title}{PNAS Plus: Suppressing cascades of load in interdependent networks}
+      \field{userf}{en}
+    \endentry
+    \entry{Kitsak2010Identification}{article}{}
+      \name{author}{7}{}{%
+        {{hash=02b08e4717a8be7591bc40923109c281}{%
+           family={Kitsak},
+           family_i={K\bibinitperiod},
+           given={Maksim},
+           given_i={M\bibinitperiod}}}%
+        {{hash=97fa9805e71c5c7354c7ca752b7ed1bd}{%
+           family={Gallos},
+           family_i={G\bibinitperiod},
+           given={Lazaros\bibnamedelima K.},
+           given_i={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=742d135a5dd9af879149ba57bf45774c}{%
+           family={Havlin},
+           family_i={H\bibinitperiod},
+           given={Shlomo},
+           given_i={S\bibinitperiod}}}%
+        {{hash=af8bbbcab4a27b8874daa2eb9353bd67}{%
+           family={Liljeros},
+           family_i={L\bibinitperiod},
+           given={Fredrik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=77e27c6d5f387d00c215866de7c66687}{%
+           family={Muchnik},
+           family_i={M\bibinitperiod},
+           given={Lev},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5714ec16b6f6413538f150b4646c2579}{%
+           family={Stanley},
+           family_i={S\bibinitperiod},
+           given={H.\bibnamedelimi Eugene},
+           given_i={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9db07d7f23b3da1b9eef2a31255a38e9}{%
+           family={Makse},
+           family_i={M\bibinitperiod},
+           given={Hernán\bibnamedelima A.},
+           given_i={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{557d67e65d3c9e2d11aba13569cb9083}
+      \strng{fullhash}{13861bef12da6076cd70dfe88b44e6b4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Physics}
+      \field{number}{11}
+      \field{title}{Identification of influential spreaders in complex networks}
+      \field{userf}{en}
+      \field{volume}{6}
+      \field{year}{2010}
+      \field{pages}{888\bibrangedash 893}
+      \range{pages}{6}
+    \endentry
     \entry{Bonacich1972Factoring}{article}{}
       \name{author}{1}{}{%
         {{hash=12121ca52ec8a4201d394b3b282a1502}{%
@@ -1739,96 +880,562 @@
       \field{pages}{113\bibrangedash 120}
       \range{pages}{8}
     \endentry
-    \entry{Yang2006Epidemic}{article}{}
-      \name{author}{7}{}{%
-        {{hash=c4f0c9678fb69ebf79ff4210b385eee5}{%
+    \entry{Girvan2001Community}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3d0a234cad5f1174e74175aff18bee28}{%
+           family={Girvan},
+           family_i={G\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e10496a046558ed6c27e3a9373727f7f}{%
+           family={Newman},
+           family_i={N\bibinitperiod},
+           given={M.\bibnamedelimi E.\bibnamedelimi J.},
+           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{97a2d30433091dd02b2fe0e171aac48b}
+      \strng{fullhash}{97a2d30433091dd02b2fe0e171aac48b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
+      \field{number}{12}
+      \field{title}{Community structure in social and biological networks}
+      \field{userf}{en}
+      \field{volume}{99}
+      \field{year}{2001}
+      \field{pages}{7821}
+      \range{pages}{1}
+    \endentry
+    \entry{Tyler2003Email}{book}{}
+      \name{author}{3}{}{%
+        {{hash=fb6e1c06bca04a76448f694e3225633b}{%
+           family={Tyler},
+           family_i={T\bibinitperiod},
+           given={Joshua\bibnamedelima R},
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f802a87e3b45a2eb2f258275ebc9e3d8}{%
+           family={Wilkinson},
+           family_i={W\bibinitperiod},
+           given={Dennis\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=41a0ff119949428043805ffb602d2614}{%
+           family={Huberman},
+           family_i={H\bibinitperiod},
+           given={Bernardo\bibnamedelima A},
+           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{e83b9a255a809f6694c51bbc3120da21}
+      \strng{fullhash}{e83b9a255a809f6694c51bbc3120da21}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Email as spectroscopy: automated discovery of community structure within organizations}
+      \field{userf}{en}
+      \field{year}{2003}
+      \field{pages}{143\bibrangedash 153}
+      \range{pages}{11}
+    \endentry
+    \entry{Di2010k}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5bee39725d4e42547100329a1b3e9014}{%
+           family={Di},
+           family_i={D\bibinitperiod},
+           given={Jin},
+           given_i={J\bibinitperiod}}}%
+        {{hash=5d747de5a1d7afbdb921b07373b5a58e}{%
+           family={Jie},
+           family_i={J\bibinitperiod},
+           given={Liu},
+           given_i={L\bibinitperiod}}}%
+        {{hash=6cecade5e282af6ec1a6e00ade00c8d3}{%
+           family={Jia},
+           family_i={J\bibinitperiod},
+           given={Zheng\bibnamedelima Xue},
+           given_i={Z\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=fd2e301f58fcbad2c3c2f99f5ca892f0}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Da\bibnamedelima You},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2829b778f879c0106e54c35c5e4b633}
+      \strng{fullhash}{e56b821c6b337882edc253b7d28ee2f7}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern Recognition \& Artificial Intelligence}
+      \field{number}{4}
+      \field{title}{k-Nearest-Neighbor Network Based Data Clustering Algorithm}
+      \field{userf}{en}
+      \field{volume}{23}
+      \field{year}{2010}
+      \field{pages}{546\bibrangedash 551}
+      \range{pages}{6}
+    \endentry
+    \entry{NewmanFast}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e10496a046558ed6c27e3a9373727f7f}{%
+           family={Newman},
+           family_i={N\bibinitperiod},
+           given={M.\bibnamedelimi E.\bibnamedelimi J.},
+           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e10496a046558ed6c27e3a9373727f7f}
+      \strng{fullhash}{e10496a046558ed6c27e3a9373727f7f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{6 Pt 2}
+      \field{title}{Fast algorithm for detecting community structure in networks.}
+      \field{userf}{en}
+      \field{volume}{69}
+      \field{year}{2004}
+      \field{pages}{066133}
+      \range{pages}{1}
+    \endentry
+    \entry{Guimer2005Functional}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1e0574527fbde4423f8640e295ddf9d}{%
+           family={Guimerà},
+           family_i={G\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+        {{hash=6d8b6e9cb81fc893ab1ddcb8d1bde009}{%
+           family={Nunes\bibnamedelima Amaral},
+           family_i={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           given_i={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b5f7a5065767b33fba4fce26ff0cd0c}
+      \strng{fullhash}{0b5f7a5065767b33fba4fce26ff0cd0c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7028}
+      \field{title}{Functional cartography of complex metabolic networks.}
+      \field{userf}{en}
+      \field{volume}{433}
+      \field{year}{2005}
+      \field{pages}{895}
+      \range{pages}{1}
+    \endentry
+    \entry{Newman2006Modularity}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=2e5bdd799625868968171ab04024aab0}{%
+           family={Newman},
+           family_i={N\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e5bdd799625868968171ab04024aab0}
+      \strng{fullhash}{2e5bdd799625868968171ab04024aab0}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{APS March Meeting}
+      \field{title}{Modularity and community structure in networks}
+      \field{userf}{en}
+      \field{year}{2006}
+      \field{pages}{8577\bibrangedash 8582}
+      \range{pages}{6}
+    \endentry
+    \entry{Sanyal2006Viscous}{article}{}
+      \name{author}{2}{}{%
+        {{hash=38d1d188051238fea638c3cc74a9bf61}{%
+           family={Sanyal},
+           family_i={S\bibinitperiod},
+           given={Soma},
+           given_i={S\bibinitperiod}}}%
+        {{hash=c209bb0fb9a919add924bda3ce75431b}{%
+           family={Glazier},
+           family_i={G\bibinitperiod},
+           given={James},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f5ff169d103dacf27516f52bf861ec0}
+      \strng{fullhash}{8f5ff169d103dacf27516f52bf861ec0}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Mechanics Theory \& Experiment}
+      \field{number}{10}
+      \field{title}{Viscous instabilities in flowing foams: A Cellular Potts Model approach.}
+      \field{userf}{en}
+      \field{volume}{2006}
+      \field{year}{2006}
+      \field{pages}{p10008}
+      \range{pages}{-1}
+    \endentry
+    \entry{Raghavan2007Near}{article}{}
+      \name{author}{3}{}{%
+        {{hash=37564af4024d3a9db4b3ed59ceeab9d3}{%
+           family={Raghavan},
+           family_i={R\bibinitperiod},
+           given={U.\bibnamedelimi N.},
+           given_i={U\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8430467fe4d62e6de244a3a76cc9f7f2}{%
+           family={Albert},
+           family_i={A\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+        {{hash=68a22639cd3ce707b0322295399010d2}{%
+           family={Kumara},
+           family_i={K\bibinitperiod},
+           given={S},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7e32415375150f8a5865704d3ab4ddd}
+      \strng{fullhash}{d7e32415375150f8a5865704d3ab4ddd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{3 Pt 2}
+      \field{title}{Near linear time algorithm to detect community structures in large-scale networks}
+      \field{userf}{en}
+      \field{volume}{76}
+      \field{year}{2007}
+      \field{pages}{036106}
+      \range{pages}{1}
+    \endentry
+    \entry{Leung2009Towards}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fa7756ebfe0bbe52bbcb0e3a8ac0c308}{%
+           family={Leung},
+           family_i={L\bibinitperiod},
+           given={I.\bibnamedelimi X.},
+           given_i={I\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=0c7004ec34e77afea334964c2ab0b1a6}{%
+           family={Hui},
+           family_i={H\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=0f3521c3b832efb3d8eff7ae9055670a}{%
+           family={Liò},
+           family_i={L\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+        {{hash=bcd1711d7ebaf4b3ec65c5c5e669e48b}{%
+           family={Crowcroft},
+           family_i={C\bibinitperiod},
+           given={J},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{df5e971bf13af89fcb8d3c234298132a}
+      \strng{fullhash}{8e732e1ddf8380b7ef49b9829858f09a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
+      \field{number}{6 Pt 2}
+      \field{title}{Towards real-time community detection in large networks.}
+      \field{userf}{en}
+      \field{volume}{79}
+      \field{year}{2009}
+      \field{pages}{066107}
+      \range{pages}{1}
+    \endentry
+    \entry{Barber2009Detecting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ab08026405714a5a72af2415ca476d66}{%
+           family={Barber},
+           family_i={B\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=34a7eca0eb92d41f46d1776bdb2e0e62}{%
+           family={Clark},
+           family_i={C\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{0951c08581c2e992c2a1ad56eaaf265b}
+      \strng{fullhash}{0951c08581c2e992c2a1ad56eaaf265b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E}
+      \field{number}{2 Pt 2}
+      \field{title}{Detecting network communities by propagating labels under constraints}
+      \field{userf}{en}
+      \field{volume}{80}
+      \field{year}{2009}
+      \field{pages}{026129}
+      \range{pages}{1}
+    \endentry
+    \entry{Di2012Ant}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5bee39725d4e42547100329a1b3e9014}{%
+           family={Di},
+           family_i={D\bibinitperiod},
+           given={Jin},
+           given_i={J\bibinitperiod}}}%
+        {{hash=6707d4a5441e2fe6ed79503f203adcc3}{%
+           family={Bo},
+           family_i={B\bibinitperiod},
+           given={Yang},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=5d747de5a1d7afbdb921b07373b5a58e}{%
+           family={Jie},
+           family_i={J\bibinitperiod},
+           given={Liu},
+           given_i={L\bibinitperiod}}}%
+        {{hash=fd2e301f58fcbad2c3c2f99f5ca892f0}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Da\bibnamedelima You},
+           given_i={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=702c473fcc28ec6d7d9f21ad9b5be89f}{%
+           family={Dong-Xiao},
+           family_i={D\bibinithyphendelim X\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           given_i={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcd9169fcdbd4529c89ec809fcf3c02d}
+      \strng{fullhash}{26cf77be5fd36bba7425d3a2203f1ecc}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Software}
+      \field{number}{3}
+      \field{title}{Ant Colony Optimization Based on Random Walk for Community Detection in Complex Networks}
+      \field{userf}{en}
+      \field{volume}{23}
+      \field{year}{2012}
+    \endentry
+    \entry{Dongen2000Graph}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7dc0bf73c6be8b493b36ebaac451cac7}{%
+           family={Dongen},
+           family_i={D\bibinitperiod},
+           given={Stijn\bibnamedelimb Marinus\bibnamedelima Van},
+           given_i={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dc0bf73c6be8b493b36ebaac451cac7}
+      \strng{fullhash}{7dc0bf73c6be8b493b36ebaac451cac7}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Open Access}
+      \field{title}{Graph Clustering by Flow Simulation}
+      \field{userf}{en}
+      \field{year}{2000}
+    \endentry
+    \entry{jd2012fz}{article}{}
+      \name{author}{5}{}{%
+        {{hash=3101aac2315fe968a0ff9efc02a1a0a7}{%
+           family={金弟},
+           family_i={金\bibinitperiod}}}%
+        {{hash=fa34068f0d878ce34629ada17a39c622}{%
+           family={杨博},
+           family_i={杨\bibinitperiod}}}%
+        {{hash=b5c4d23dafabdc76ec744bd4e3d3290e}{%
+           family={刘杰},
+           family_i={刘\bibinitperiod}}}%
+        {{hash=a8bc3adfd3ee063c51c4615b3d4abf01}{%
+           family={刘大有},
+           family_i={刘\bibinitperiod}}}%
+        {{hash=09b48e101d89934f57dacf862e084305}{%
+           family={何东晓},
+           family_i={何\bibinitperiod}}}%
+      }
+      \strng{namehash}{984a106712abb93a4ed8e675aa423a70}
+      \strng{fullhash}{efd20f579ce18289352b5edd78d34081}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{软件学报}
+      \field{number}{3}
+      \field{title}{复杂网络簇结构探测——基于随机游走的蚁群算法}
+      \field{userf}{en}
+      \field{volume}{23}
+      \field{year}{2012}
+      \field{pages}{451\bibrangedash 464}
+      \range{pages}{14}
+    \endentry
+    \entry{Rosvall2008Maps}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c4dd2419dfbbe40a99ed3f90f7a90f27}{%
+           family={Rosvall},
+           family_i={R\bibinitperiod},
+           given={Martin},
+           given_i={M\bibinitperiod}}}%
+        {{hash=9e967c23f9f51ce19e72398b74f1c854}{%
+           family={Bergstrom},
+           family_i={B\bibinitperiod},
+           given={Carl\bibnamedelima T.},
+           given_i={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c05cfec6b8c4d8dac1e7509086df1eb4}
+      \strng{fullhash}{c05cfec6b8c4d8dac1e7509086df1eb4}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{4}
+      \field{title}{Maps of Random Walks on Complex Networks Reveal Community Structure}
+      \field{userf}{en}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{1118\bibrangedash 1123}
+      \range{pages}{6}
+    \endentry
+    \entry{Mor2009Opinion}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f12db6b6f14c4cde95131c927c04252}{%
+           family={Mor¿Rescu},
+           family_i={M\bibinitperiod},
+           given={Irinel\bibnamedelima Constantin},
+           given_i={I\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c287fd0c6a662cc10a08563ad239907f}{%
+           family={Girard},
+           family_i={G\bibinitperiod},
+           given={Antoine},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{80eeaa318a46582f9a76340b207ee7b7}
+      \strng{fullhash}{80eeaa318a46582f9a76340b207ee7b7}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Automatic Control}
+      \field{number}{8}
+      \field{title}{Opinion Dynamics With Decaying Confidence: Application to Community Detection in Graphs}
+      \field{userf}{en}
+      \field{volume}{56}
+      \field{year}{2009}
+      \field{pages}{1862\bibrangedash 1873}
+      \range{pages}{12}
+    \endentry
+    \entry{Liu2007Email}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=92f7474e36f4f2b59a14e85c0e738e40}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Yan},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=1f5a43a4e625c694c9c64e22adcabe9b}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Qing\bibnamedelima Xian},
+           given_i={Q\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=42b03d7a28c97c101e0a62ee7baba8f9}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Qiang},
+           given_i={Q\bibinitperiod}}}%
+        {{hash=4f36c98f4cb476b1ac7ba75dab5e2b03}{%
+           family={Yao},
+           family_i={Y\bibinitperiod},
+           given={Qing},
+           given_i={Q\bibinitperiod}}}%
+        {{hash=5b9e8cc65abf91722789b60564d017cb}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Yao},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{4edf92b04923461273bf134fd3acdba7}
+      \strng{fullhash}{5099225ff9584c88a6a5b465897ff679}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Web and Network Technologies, and Information Management, APWeb/WAIM 2007 International Workshops: DBMAN 2007, WebETrends 2007, PAIS 2007 and ASWAN 2007, Huang Shan, China, June 16-18, 2007, Proceedings}
+      \field{title}{Email Community Detection Using Artificial Ant Colony Clustering}
+      \field{userf}{en}
+      \field{year}{2007}
+      \field{pages}{287\bibrangedash 298}
+      \range{pages}{12}
+    \endentry
+    \entry{Liu2010Finding}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=92f7474e36f4f2b59a14e85c0e738e40}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Yan},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=348ebc0fd7897db614bea9887edf675b}{%
+           family={Luo},
+           family_i={L\bibinitperiod},
+           given={Junyong},
+           given_i={J\bibinitperiod}}}%
+        {{hash=429ccdadcebd0da81049be16f5905fc4}{%
            family={Yang},
            family_i={Y\bibinitperiod},
-           given={Rui},
-           given_i={R\bibinitperiod}}}%
-        {{hash=c461fba61aa35a024881aa031e99436c}{%
-           family={Wang},
-           family_i={W\bibinitperiod},
-           given={Bing\bibnamedelima Hong},
-           given_i={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=62e35a279e83b786c66c87905e94c4d5}{%
-           family={Ren},
-           family_i={R\bibinitperiod},
-           given={Jie},
-           given_i={J\bibinitperiod}}}%
-        {{hash=2578b2cb000877e1cb42221a1f37108d}{%
-           family={Bai},
-           family_i={B\bibinitperiod},
-           given={Wen\bibnamedelima Jie},
-           given_i={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=5704c298d04600cefd688a43edc3b519}{%
-           family={Shi},
-           family_i={S\bibinitperiod},
-           given={Zhi\bibnamedelima Wen},
-           given_i={Z\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=a9ea3e36caff5bf626e8c8225925cdd2}{%
-           family={Wang},
-           family_i={W\bibinitperiod},
-           given={Wen\bibnamedelima Xu},
-           given_i={W\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
-        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
+           given={Huijie},
+           given_i={H\bibinitperiod}}}%
+        {{hash=0147ac8ea11187116426aa10f3131cf4}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Lian},
+           given_i={L\bibinitperiod}}}%
       }
-      \strng{namehash}{aa032a240d7f2ca7fb9de36866bf6cd1}
-      \strng{fullhash}{d0baa3374fb35ae37885732a86a5fec3}
+      \strng{namehash}{2580763b1bef37c155b38fece3918dc3}
+      \strng{fullhash}{ec44addf3a5005e969b578cc87bb7148}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Physics Letters A}
-      \field{number}{3}
-      \field{title}{Epidemic spreading on heterogeneous networks with identical infectivity}
+      \field{booktitle}{International Conference on Artificial Intelligence and Computational Intelligence}
+      \field{title}{Finding Closely Communicating Community Based on Ant Colony Clustering Model}
       \field{userf}{en}
-      \field{volume}{364}
-      \field{year}{2006}
-      \field{pages}{189\bibrangedash 193}
+      \field{year}{2010}
+      \field{pages}{127\bibrangedash 131}
       \range{pages}{5}
     \endentry
-    \entry{L2011Leaders}{article}{}
-      \name{author}{4}{}{%
-        {{hash=767fb4e8e5a99206987af76c3ee394d1}{%
-           family={Lü},
-           family_i={L\bibinitperiod},
-           given={Linyuan},
-           given_i={L\bibinitperiod}}}%
-        {{hash=f834d68c1d786b6732bc4975b69d7307}{%
-           family={Zhang},
-           family_i={Z\bibinitperiod},
-           given={Yi\bibnamedelima Cheng},
-           given_i={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=2722968808ea5a68bb95ce93989b152d}{%
-           family={Chi},
-           family_i={C\bibinitperiod},
-           given={Ho\bibnamedelima Yeung},
-           given_i={H\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
-           family={Zhou},
-           family_i={Z\bibinitperiod},
-           given={Tao},
-           given_i={T\bibinitperiod}}}%
+    \entry{Tasgin2007Community}{article}{}
+      \name{author}{3}{}{%
+        {{hash=39a6c56f573f4e7f2fc9ebc25ed880c0}{%
+           family={Tasgin},
+           family_i={T\bibinitperiod},
+           given={Mursel},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e5e963cc851aa70fd428e884380ef92e}{%
+           family={Herdagdelen},
+           family_i={H\bibinitperiod},
+           given={Amac},
+           given_i={A\bibinitperiod}}}%
+        {{hash=c9dd0720cc318fc5ffcbfe598e22b327}{%
+           family={Bingol},
+           family_i={B\bibinitperiod},
+           given={Haluk},
+           given_i={H\bibinitperiod}}}%
       }
-      \strng{namehash}{ddbf23eba4117024854b0354d8e8ec0b}
-      \strng{fullhash}{2be451a2f703ef3dbdd8e4cfe64ebf9f}
+      \strng{namehash}{4b7e7bab0d9c6d29b6bac93513220882}
+      \strng{fullhash}{4b7e7bab0d9c6d29b6bac93513220882}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Plos One}
-      \field{number}{6}
-      \field{title}{Leaders in Social Networks, the Delicious Case}
+      \field{journaltitle}{Corr}
+      \field{number}{3120}
+      \field{title}{Community Detection in Complex Networks Using Genetic Algorithms}
       \field{userf}{en}
-      \field{volume}{6}
-      \field{year}{2011}
-      \field{pages}{e21202}
-      \range{pages}{-1}
+      \field{volume}{2005}
+      \field{year}{2007}
+      \field{pages}{1067\bibrangedash 1068}
+      \range{pages}{2}
     \endentry
     \entry{NewmanBasic}{article}{}
       \name{author}{2}{}{%
@@ -1882,6 +1489,72 @@
       \field{pages}{75\bibrangedash 174}
       \range{pages}{100}
     \endentry
+    \entry{Chen2012Identifying}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7c4978e17747b1731c34765b56d2c53f}{%
+           family={Chen},
+           family_i={C\bibinitperiod},
+           given={Duanbing},
+           given_i={D\bibinitperiod}}}%
+        {{hash=767fb4e8e5a99206987af76c3ee394d1}{%
+           family={Lü},
+           family_i={L\bibinitperiod},
+           given={Linyuan},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5e86f61d06b9731156190ba22179cfab}{%
+           family={Shang},
+           family_i={S\bibinitperiod},
+           given={Ming\bibnamedelima Sheng},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f834d68c1d786b6732bc4975b69d7307}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Yi\bibnamedelima Cheng},
+           given_i={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cb43f8d049da79757ef659dd18d8ef7a}{%
+           family={Zhou},
+           family_i={Z\bibinitperiod},
+           given={Tao},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6b492636165ecffb1c15827e1a0f03f}
+      \strng{fullhash}{1deaad2481a6e5d7f50f68930d006971}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica A Statistical Mechanics \& Its Applications}
+      \field{number}{4}
+      \field{title}{Identifying influential nodes in complex networks}
+      \field{userf}{en}
+      \field{volume}{391}
+      \field{year}{2012}
+      \field{pages}{1777\bibrangedash 1787}
+      \range{pages}{11}
+    \endentry
+    \entry{Phillip1972Factoring}{article}{}
+      \name{author}{1}{}{%
+        {{hash=12121ca52ec8a4201d394b3b282a1502}{%
+           family={Bonacich},
+           family_i={B\bibinitperiod},
+           given={Phillip},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{12121ca52ec8a4201d394b3b282a1502}
+      \strng{fullhash}{12121ca52ec8a4201d394b3b282a1502}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Mathematical Sociology}
+      \field{number}{1}
+      \field{title}{Factoring and weighting approaches to status scores and clique identification}
+      \field{userf}{en}
+      \field{volume}{2}
+      \field{year}{1972}
+      \field{pages}{113\bibrangedash 120}
+      \range{pages}{8}
+    \endentry
     \entry{Ren2014The}{article}{}
       \name{author}{3}{}{%
         {{hash=5c87ac6d18eeba46e236e342d652e632}{%
@@ -1910,29 +1583,6 @@
       \field{title}{The Position of Connected-way for Highway and Urban Road Based on Node Importance Analysis Method}
       \field{userf}{en}
       \field{year}{2014}
-    \endentry
-    \entry{NewmanFast}{article}{}
-      \name{author}{1}{}{%
-        {{hash=e10496a046558ed6c27e3a9373727f7f}{%
-           family={Newman},
-           family_i={N\bibinitperiod},
-           given={M.\bibnamedelimi E.\bibnamedelimi J.},
-           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \strng{namehash}{e10496a046558ed6c27e3a9373727f7f}
-      \strng{fullhash}{e10496a046558ed6c27e3a9373727f7f}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physical Review E Statistical Nonlinear \& Soft Matter Physics}
-      \field{number}{6 Pt 2}
-      \field{title}{Fast algorithm for detecting community structure in networks.}
-      \field{userf}{en}
-      \field{volume}{69}
-      \field{year}{2004}
-      \field{pages}{066133}
-      \range{pages}{1}
     \endentry
     \entry{TuihuoEfficency}{article}{}
       \name{author}{2}{}{%
@@ -1963,8 +1613,8 @@
       \range{pages}{-1}
     \endentry
   \endsortlist
-  \missing{test-zh}
   \missing{test-en}
+  \missing{test-zh}
 \endrefsection
 \endinput
 

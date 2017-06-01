@@ -12,92 +12,100 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第二章\hspace {0.3em}}相关研究}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}高速公路关键路段/节点挖掘相关研究}{7}{section.2.1}
+\contentsline {section}{\numberline {2.1}高速公路关键路段挖掘相关研究}{7}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}复杂网络关键路段/节点挖掘相关研究}{8}{section.2.2}
+\contentsline {section}{\numberline {2.2}复杂网络关键路段挖掘相关研究}{10}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}基于节点临近}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}基于特征向量的排序方法}{10}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}基于路径临近}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}基于路段移除和收缩的排序方法}{11}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}基于特征向量的排序方法}{17}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}路段重要性排序方法的评价标准}{12}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}基于节点移除和收缩的排序方法}{21}{subsection.2.2.4}
+\contentsline {subsubsection}{网络的鲁棒性和脆弱性评价}{13}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.5}节点重要性排序方法的评价标准}{25}{subsection.2.2.5}
+\contentsline {subsubsection}{用传播动力学模型评价排序算法}{13}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{用网络的鲁棒性和脆弱性评价排序算法}{26}{section*.9}
+\contentsline {section}{\numberline {2.3}复杂网络社群划分相关研究}{13}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{用传播动力学模型评价排序算法}{26}{section*.10}
+\contentsline {subsection}{\numberline {2.3.1}基于划分的社群挖掘}{14}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}复杂网络社群划分相关研究}{28}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.2}基于模块性优化的社群挖掘}{14}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}基于贪心的高速公路关键路段识别模型}{33}{chapter.3}
+\contentsline {subsection}{\numberline {2.3.3}基于标签传播的社群挖掘}{15}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}引言}{33}{section.3.1}
+\contentsline {subsection}{\numberline {2.3.4}基于动力学的社群挖掘}{15}{subsection.2.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}问题定义}{34}{section.3.2}
+\contentsline {subsection}{\numberline {2.3.5}基于仿生计算的社群挖掘}{16}{subsection.2.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}问题定义}{34}{subsection.3.2.1}
+\contentsline {section}{\numberline {2.4}本章小结}{16}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}模型定义}{35}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}基于贪心的高速公路关键路段识别模型}{17}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}次模性分析}{36}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.1}引言}{17}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{单调性证明}{36}{section*.11}
+\contentsline {section}{\numberline {3.2}问题定义}{18}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{次模性证明}{37}{section*.12}
+\contentsline {subsection}{\numberline {3.2.1}问题定义}{18}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}基于贪心法的关键路段求解}{38}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.2}模型定义}{19}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{贪心法求解}{38}{section*.13}
+\contentsline {subsection}{\numberline {3.2.3}次模性分析}{20}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{复杂度分析}{40}{section*.14}
+\contentsline {subsubsection}{单调性证明}{20}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}实验及结果}{41}{section.3.3}
+\contentsline {subsubsection}{次模性证明}{21}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}实验数据}{41}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.2.4}基于贪心法的关键路段求解}{22}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}实验结果}{42}{subsection.3.3.2}
+\contentsline {subsubsection}{贪心法求解}{22}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}时间分析}{45}{subsection.3.3.3}
+\contentsline {subsubsection}{复杂度分析}{24}{section*.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}本章小结}{46}{section.3.4}
+\contentsline {section}{\numberline {3.3}实验及结果}{25}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}基于社群划分的关键路段识别方法}{47}{chapter.4}
+\contentsline {subsection}{\numberline {3.3.1}实验数据}{25}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}引言}{47}{section.4.1}
+\contentsline {subsection}{\numberline {3.3.2}实验结果}{26}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}问题定义}{48}{section.4.2}
+\contentsline {subsection}{\numberline {3.3.3}时间分析}{28}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}问题定义}{48}{subsection.4.2.1}
+\contentsline {section}{\numberline {3.4}本章小结}{29}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}模型定义}{51}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}基于社群划分的关键路段识别方法}{31}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}基于社群划分的关键路段求解}{53}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.1}引言}{31}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}实验及结果}{56}{section.4.3}
+\contentsline {section}{\numberline {4.2}问题定义}{32}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}本章小结}{62}{section.4.4}
+\contentsline {subsection}{\numberline {4.2.1}问题定义}{32}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}原型系统的设计与实现}{63}{chapter.5}
+\contentsline {subsection}{\numberline {4.2.2}模型定义}{35}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}系统功能}{63}{section.5.1}
+\contentsline {subsection}{\numberline {4.2.3}基于社群划分的关键路段求解}{37}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}系统架构}{63}{section.5.2}
+\contentsline {section}{\numberline {4.3}实验及结果}{39}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}界面功能展示}{64}{section.5.3}
+\contentsline {section}{\numberline {4.4}本章小结}{45}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}本章小结}{64}{section.5.4}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}原型系统的设计与实现}{47}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{总结与展望}{67}{chapter*.35}
+\contentsline {section}{\numberline {5.1}系统功能}{47}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}主要工作}{67}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.2}系统架构}{47}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}未来工作展望}{68}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.3}界面功能展示}{48}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{参考文献}{69}{appendix*.37}
+\contentsline {section}{\numberline {5.4}本章小结}{49}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录 A\hspace {0.3em}}附件}{73}{appendix.A}
+\contentsline {chapter}{总结与展望}{51}{chapter*.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{75}{appendix*.38}
+\contentsline {subsection}{\numberline {5.4.1}主要工作}{51}{subsection.5.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}未来工作展望}{52}{subsection.5.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{53}{appendix*.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {0.3em}}附件}{57}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{59}{appendix*.38}
